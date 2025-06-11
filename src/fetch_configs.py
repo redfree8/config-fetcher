@@ -23,7 +23,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# --- START: Final and Smartest set_remark function ---
+# --- START: Our Smart `set_remark` function ---
 def set_remark(config: str, tag: str) -> str:
     """
     Extracts leading flag emojis from the old remark and combines them
@@ -44,7 +44,6 @@ def set_remark(config: str, tag: str) -> str:
             old_remark = unquote(old_remark_encoded)
 
         # Step 2: Create the new remark string by finding emojis
-        # This regex pattern finds one or more emoji characters at the start of the string
         emoji_pattern = re.compile(
             r"^\s*([\U0001F1E0-\U0001F1FF"  # Flags
             r"\U0001F300-\U0001F5FF"  # Pictographs
@@ -76,7 +75,7 @@ def set_remark(config: str, tag: str) -> str:
     except Exception as e:
         logger.error(f"Failed to set smart remark, returning original: {config} | Error: {e}")
         return config
-# --- END: Final set_remark function ---
+# --- END: Our Smart `set_remark` function ---
 
 class ConfigFetcher:
     def __init__(self, config: ProxyConfig):
@@ -212,11 +211,13 @@ class ConfigFetcher:
 
         unique_configs = list(set(configs))
         
+        # --- START OF OUR FIX (to save tagged configs) ---
         final_channel_configs = []
         for config in unique_configs:
             processed_list = self.process_config(config, channel)
             if processed_list:
                 final_channel_configs.extend(processed_list)
+        # --- END OF OUR FIX ---
 
         if len(final_channel_configs) >= self.config.MIN_CONFIGS_PER_CHANNEL:
             self.config.update_channel_stats(channel, True, response_time if 'response_time' in locals() else time.time() - start_time)
@@ -254,8 +255,10 @@ class ConfigFetcher:
                     if clean_config not in self.seen_configs:
                         channel.metrics.unique_configs += 1
                         self.seen_configs.add(clean_config)
+                        # --- START OF OUR CHANGE (to tag the config) ---
                         tagged_config = set_remark(clean_config, "@REDFREE8")
                         processed_configs.append(tagged_config)
+                        # --- END OF OUR CHANGE ---
                         self.protocol_counts[protocol] += 1
                 break
         return processed_configs
