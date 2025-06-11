@@ -330,10 +330,10 @@ def save_configs(configs: List[str], config: ProxyConfig):
     try:
         os.makedirs(os.path.dirname(config.OUTPUT_FILE), exist_ok=True)
         with open(config.OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            header = """//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
+            header = """//profile-title: base64:QFJFREZSRUU4L01JWHBybw==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
+//support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
 """
