@@ -118,11 +118,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47
 
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?security=tls&headerType=none&type=tcp&sni=wispy-crib-net.stark-industries.solutions#%40REDFREE8
 
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?security=tls&headerType=none&type=tcp&sni=wispy-crib-net.stark-industries.solutions#%40REDFREE8%20%E2%9A%9C
-
 trojan://1d99eb06-8f7c-4296-8c84-1e57084579a5@iepl.tube-cat.com:20063/?type=tcp&security=tls&sni=xysni.eos-shanghai-2.cmecloud.cn&allowInsecure=1#%40REDFREE8
 
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?path=%2Fproxyip%3D194.76.18.122%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#%40REDFREE8
+
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?path=%2Fproxyip%3D194.76.18.122%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#%40REDFREE8%20%E2%9A%9C
 
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?path=%2Fproxyip%3D212.183.88.172%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#%40REDFREE8
 
@@ -141,8 +141,6 @@ trojan://telegram-id-directvpn@13.38.143.113:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.38.143.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
 
 trojan://telegram-id-directvpn@13.39.68.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-trojan://telegram-id-directvpn@13.39.68.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
 
 trojan://telegram-id-directvpn@15.188.191.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
@@ -171,6 +169,8 @@ trojan://telegram-id-directvpn@35.180.105.199:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@15.237.165.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 trojan://telegram-id-privatevpns@18.194.138.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
+
+trojan://telegram-id-privatevpns@3.120.136.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002/?sni=us.10101251.xyz#%40REDFREE8
 
@@ -220,7 +220,7 @@ hysteria2://e3f67f43-9097-4e56-96e2-681910b92150@172.245.106.236:35091/?insecure
 
 hysteria2://jvTJxLMlcl@p4.3dfigures.ir:30452?security=tls&obfs=salamander&obfs-password=v2raybluecrystal&insecure=1#%40REDFREE8%20%E2%9C%85
 
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6IjEzOC42OC4xNzEuMTg2IiwicG9ydCI6IjE0NTUiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjZmYjM4MTYtYWYwMy00YjIxLWIxZmMtY2IyYjcwZmEyNzA1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoicHVsbC5mcmVlLnZpZGVvLjEwMDEwLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6IjEyMC4yMzIuMTUzLjQwIiwicG9ydCI6MzEyMDksImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyIsImFkZCI6IjE3Mi42Ny4xOTguMTg3IiwicG9ydCI6NDQzLCJpZCI6IjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoieG1pdmlkZW8uY2ZkIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0
 
