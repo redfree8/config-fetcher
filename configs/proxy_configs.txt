@@ -116,6 +116,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%40REDFREE8
 
+trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=little-frog-caa9v.ferawi7897.workers.dev&fp=randomized&type=ws&sni=little-frog-caa9v.ferawi7897.workers.dev#%40REDFREE8%20%E2%9A%9C
+
 trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=little-frog-caa9v.ferawi7897.workers.dev&fp=randomized&type=ws&sni=little-frog-caa9v.ferawi7897.workers.dev#%40REDFREE8%20%E2%9C%85
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#%40REDFREE8
@@ -130,11 +132,11 @@ trojan://telegram-id-directvpn@15.236.243.30:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@15.237.225.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
-trojan://telegram-id-directvpn@15.237.225.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
-
 trojan://telegram-id-directvpn@15.237.243.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 trojan://telegram-id-directvpn@18.156.116.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
+
+trojan://telegram-id-directvpn@18.156.116.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
 
 trojan://telegram-id-directvpn@18.198.113.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
@@ -170,8 +172,6 @@ trojan://telegram-id-privatevpns@18.156.116.190:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@18.198.113.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
-trojan://telegram-id-privatevpns@18.199.36.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.86:30300/?insecure=1&sni=www.bing.com#%40REDFREE8
 
 hysteria2://447fb52e-8377-452e-8f9e-873dd2d3f1f8@45.89.109.129:443?security=tls&insecure=1&mport=50000-53000&sni=music.apple.com#%40REDFREE8%20%E2%9C%85
@@ -201,8 +201,6 @@ hysteria2://dongtaiwang.com@46.17.41.5:12904/?insecure=1&sni=apple.com#%40REDFRE
 hysteria2://dongtaiwang.com@51.159.111.32:31180/?insecure=1&sni=apple.com#%40REDFREE8
 
 hysteria2://jvTJxLMlcl@p4.3dfigures.ir:30452?security=tls&obfs=salamander&obfs-password=v2raybluecrystal&insecure=1#%40REDFREE8%20%E2%9C%85
-
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6ImhhYS5kYXNodWFpLmN5b3UiLCJwb3J0IjoiNDUwNTQiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWE3YWE5ODMtNGI1Zi00NzFhLThjN2YtMTNhOTUwMmI3MjQxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImhhYS5kYXNodWFpLmN5b3UiLCJ0bHMiOiIifQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyIsImFkZCI6IjE3Mi42Ny4xOTguMTg3IiwicG9ydCI6NDQzLCJpZCI6IjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoieG1pdmlkZW8uY2ZkIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0
 
@@ -248,13 +246,15 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFk
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6InhjbWcxOS5kdGtqMDMyOC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiYmM5NGY3NDItMGU3Yi00Y2Y4LWU4OTctNjIxNGY5YmVjOGRhIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y21nMTkuZHRrajAzMjguY29tIiwicGF0aCI6Ii94Y21nMTIzNCIsImhvc3QiOiJ4Y21nMTkuZHRrajAzMjguY29tIn0
 
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiMTA0LjIxLjQ4LjEiLCJwb3J0IjoiMjA5NiIsInR5cGUiOiJub25lIiwiaWQiOiIwMjQ1YzJkNC0wYWQxLTRmMGYtZWI5Yy1mYmQ1ZjFjNDdiZTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJyYWsyLjg1MjIyNC54eXoiLCJ0bHMiOiJ0bHMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzZFx1ZGQxMiIsImFkZCI6IjQ1LjIwNy4yMDEuMTUiLCJwb3J0IjoiMzQ2MjUiLCJ0eXBlIjoibm9uZSIsImlkIjoiMzU1MTBkZjQtOTg5OS00NDI3LWU4MjYtZDAwNWYwYWFiYzZjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiMTcyLjY3LjE5OC4xODciLCJwb3J0Ijo0NDMsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJ4bWl2aWRlby5jZmQifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiMTA0LjIxLjQ4LjEiLCJwb3J0IjoiMjA5NiIsInR5cGUiOiJub25lIiwiaWQiOiIwMjQ1YzJkNC0wYWQxLTRmMGYtZWI5Yy1mYmQ1ZjFjNDdiZTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJyYWsyLjg1MjIyNC54eXoiLCJ0bHMiOiJ0bHMifQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiNS4xMC4yNDUuODkiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6Ijg5MTNiZDJjLWZkNmItNDI1My05MDc2LTc1M2VkYmJiYzkwYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZmQ2YiIsImhvc3QiOiJ1czEubHpqbmIuc2hvcCIsInRscyI6InRscyJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiNjY2YzVkOWItc3ZmcjQwLXQxYm5qcS0xa3J0Yi5jbTUucDVwdi5jb20iLCJwb3J0IjoiMTcyMzMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNjBmNmI0YzQtOWQ3MC0xMWVkLWE0ZDItZjIzYzkxNjRjYTVkIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IjY2NmM1ZDliLXN2ZnI0MC10MWJuanEtMWtydGIuY201LnA1cHYuY29tIiwidGxzIjoiIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiaGFhLmRhc2h1YWkuY3lvdSIsInBvcnQiOiI0NTA1NCIsInR5cGUiOiJub25lIiwiaWQiOiJhYTdhYTk4My00YjVmLTQ3MWEtOGM3Zi0xM2E5NTAyYjcyNDEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiaGFhLmRhc2h1YWkuY3lvdSIsInRscyI6IiJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoibnBtanMuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6IjJ1N29waTVzcWciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMnU3b3BpNXNxZy00NTE1MDE3NDc2Lm1hc2hhbGxhaGJldC5jb20iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
 
