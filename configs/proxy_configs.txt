@@ -56,7 +56,7 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?encryption=none&se
 
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.208.89:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&type=ws#%40REDFREE8
 
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.54.233:80?encryption=none&security=none&sni=fggerlad.gerald81.dpdns.org&fp=random&type=ws&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#%40REDFREE8
+vless://27f3e0cb-48b4-4f47-9687-b3e2cd5b3854@2.189.175.35:5054?security=none&encryption=none&headerType=http&type=tcp#%40REDFREE8
 
 vless://2b7240a7-ef93-4876-8fcb-641e924122a1@f1.arshiashop.org:2086?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8%20%E2%9C%85
 
@@ -69,8 +69,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edge
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#%40REDFREE8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#%40REDFREE8
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0JFSEVRZTY4TXd3aGd1c25aa0xGdlBUcHFuVTJVd3Fzdzl1U3oyV28zYlE1NnNmVVc0N1NpWnYxRkVUSnpTSmVwNHZ0d0p6TXhRWXJZeG9nRTlGR2JpMzFQVkdjWVM@185.5.38.111:55988#%40REDFREE8%20%F0%9F%87%AC%F0%9F%87%A7
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40REDFREE8
 
@@ -94,11 +92,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%40REDFREE8
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw%3D%3D@95.164.68.37:8388#%40REDFREE8
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQYXJzYXNob25hbS0yNTY%3D@157.180.127.73:39069#%40REDFREE8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#%40REDFREE8
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg%3D@5.189.201.250:31348#%40REDFREE8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40REDFREE8
 
@@ -116,11 +114,23 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSE9QMWJXRk1rUVZ4M1BkYmhSbE9r@77.239.116.76:8315#%40REDFREE8
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%40REDFREE8
+
+trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=little-frog-caa9v.ferawi7897.workers.dev&fp=randomized&type=ws&sni=little-frog-caa9v.ferawi7897.workers.dev#%40REDFREE8%20%E2%9A%9C
+
 trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=little-frog-caa9v.ferawi7897.workers.dev&fp=randomized&type=ws&sni=little-frog-caa9v.ferawi7897.workers.dev#%40REDFREE8%20%E2%9C%85
+
+trojan://91565d37-e81a-479d-9cb0-9cb2d86cea2c@104.21.22.211:443?path=%2FfL1PjbUtiQpUI3nfCNbqCRr57Xa&security=tls&host=xxcddvfr.taipei108.dpdns.org&type=ws&sni=xxcddvfr.taipei108.dpdns.org#%40REDFREE8
+
+trojan://Aimer@67.226.221.104:80?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#%40REDFREE8
 
 trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
+trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
+
 trojan://telegram-id-directvpn@13.37.117.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
+
+trojan://telegram-id-directvpn@13.37.117.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
 
 trojan://telegram-id-directvpn@13.37.177.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
@@ -137,6 +147,8 @@ trojan://telegram-id-directvpn@15.237.225.58:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@15.237.243.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 trojan://telegram-id-directvpn@15.237.90.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
+
+trojan://telegram-id-directvpn@15.237.90.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
 
 trojan://telegram-id-directvpn@18.153.135.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
@@ -159,18 +171,6 @@ trojan://telegram-id-privatevpns@13.36.8.60:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@13.37.117.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 trojan://telegram-id-privatevpns@13.37.177.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-trojan://telegram-id-privatevpns@13.38.226.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-trojan://telegram-id-privatevpns@15.236.243.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-trojan://telegram-id-privatevpns@15.237.225.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-trojan://telegram-id-privatevpns@15.237.243.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-trojan://telegram-id-privatevpns@15.237.90.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-trojan://telegram-id-privatevpns@18.153.135.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.86:30300/?insecure=1&sni=www.bing.com#%40REDFREE8
 
@@ -201,6 +201,8 @@ hysteria2://dongtaiwang.com@46.17.41.5:12904/?insecure=1&sni=apple.com#%40REDFRE
 hysteria2://dongtaiwang.com@51.159.111.32:31180/?insecure=1&sni=apple.com#%40REDFREE8
 
 hysteria2://jvTJxLMlcl@p4.3dfigures.ir:30452?security=tls&obfs=salamander&obfs-password=v2raybluecrystal&insecure=1#%40REDFREE8%20%E2%9C%85
+
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6IjIwMy4yMjcuNDQuNzQiLCJwb3J0IjoiMzE5NDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiN2NjYmIxNDctMzhiOC00ZDdjLTkyMDEtMmFkNGFlOGI4NzYxIiwic25pIjoiIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyIsImFkZCI6IjE3Mi42Ny4xOTguMTg3IiwicG9ydCI6NDQzLCJpZCI6IjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoieG1pdmlkZW8uY2ZkIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0
 
@@ -246,9 +248,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFk
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzZFx1ZGQxMiIsImFkZCI6IjE5OC4yLjIxOC4yMTYiLCJwb3J0IjoiNDQ4ODMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsInBvcnQiOiI0OTI5MSIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsInBvcnQiOiIzNjUxOSIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzZFx1ZGQxMiIsImFkZCI6IjM2LjE1MC45NC43OSIsInBvcnQiOiIzNTIxNiIsImlkIjoiYzMxMzY4MTQtYTA3ZS00MWY2LWFkOTQtOGUyMDQ1OGMwZDIxIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3ZWIueGNqcy5pbmZvIiwicGF0aCI6Ii9ob21lIiwidGxzIjoidGxzIiwic25pIjoianA2LmcyLm1vb25iYXNlLmxpZmUiLCJ0ZXN0X25hbWUiOiIxNjAifQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiMjAzLjIyNy40NC43NCIsInBvcnQiOiIzMTk0NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiI3Y2NiYjE0Ny0zOGI4LTRkN2MtOTIwMS0yYWQ0YWU4Yjg3NjEiLCJzbmkiOiIifQ
 
