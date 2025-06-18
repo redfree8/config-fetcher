@@ -26,6 +26,12 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.41.190:443?path=%2F%3Fed%3D2
 
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@decker.ns.cloudflare.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=yz.ylka.dpdns.org&type=ws&sni=yz.ylka.dpdns.org#%40REDFREE8
 
+vless://07a3df8f-2a2c-42f8-ad92-65889d90f3bf@104.21.69.41:443?path=%2F5UW2C42lpZ7Dj4VDwVOkZfoq&security=tls&encryption=none&alpn=http/1.1&host=dddfrt5.890602.xyz&fp=chrome&type=ws&sni=DdDFRt5.890602.xyZ#%40REDFREE8
+
+vless://0dac3a50-6258-554d-9404-d8b05e4aedc6@104.21.69.44:443?path=%2Fvless&security=tls&encryption=none&host=jp-1-sso.medicaldream.ir&fp=chrome&type=ws&sni=jp-1-sso.medicaldream.ir#%40REDFREE8
+
+vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#%40REDFREE8
+
 vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?mode=gun&security=none&encryption=none&type=grpc&serviceName=1717vless#%40REDFREE8
 
 vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:2226?mode=gun&security=none&encryption=none&type=grpc&serviceName=2226vless#%40REDFREE8
@@ -53,12 +59,6 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:80?encryption=none&se
 vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@151.101.64.155:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#%40REDFREE8%20%E2%9C%85
 
 vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#%40REDFREE8%20%E2%9C%85
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=62X1tXx6M0.9pEsC.cOm&fp=chrome&type=ws&sni=62X1tXx6M0.9pEsC.cOm#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=FlN5fXaYrS.9pEsC.cOm&fp=chrome&type=ws&sni=FlN5fXaYrS.9pEsC.cOm#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HkPk6Cd2Kj.9PeSc.CoM&fp=chrome&type=ws&sni=HkPk6Cd2Kj.9PeSc.CoM#%40REDFREE8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%40REDFREE8
 
@@ -120,8 +120,6 @@ trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.worke
 
 trojan://77G4g4apO0@51.20.38.227:1935?security=tls&headerType=none&type=tcp&sni=x8-sweden-amazon-v2-cf9yw.devefun.org#%40REDFREE8
 
-trojan://77G4g4apO0@51.20.38.227:1935?security=tls&headerType=none&type=tcp&sni=x8-sweden-amazon-v2-cf9yw.devefun.org#%40REDFREE8%20%E2%9A%9C
-
 trojan://Bm92516VO0@51.15.68.121:1935?security=tls&headerType=none&type=tcp&sni=x11-amsterdam-scaleway-v2-c88f0.devefun.org#%40REDFREE8
 
 trojan://Bm92516VO0@x11-amsterdam-scaleway-v2-c88f0.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x11-amsterdam-scaleway-v2-c88f0.devefun.org#%40REDFREE8
@@ -172,6 +170,8 @@ trojan://telegram-id-directvpn@63.178.113.40:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@13.36.8.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
+trojan://telegram-id-privatevpns@13.37.117.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
+
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.86:30300/?insecure=1&sni=www.bing.com#%40REDFREE8
 
 hysteria2://447fb52e-8377-452e-8f9e-873dd2d3f1f8@45.89.109.129:443?security=tls&insecure=1&mport=50000-53000&sni=music.apple.com#%40REDFREE8%20%E2%9C%85
@@ -200,9 +200,9 @@ hysteria2://dongtaiwang.com@51.159.111.32:31180/?insecure=1&sni=apple.com#%40RED
 
 hysteria2://jvTJxLMlcl@p4.3dfigures.ir:30452?security=tls&obfs=salamander&obfs-password=v2raybluecrystal&insecure=1#%40REDFREE8%20%E2%9C%85
 
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6Ijg0LjI0Ny4xNDkuNzciLCJwb3J0IjoiNDcyMTEiLCJpZCI6ImZiNjc0MjYwLTFjMjEtNGY5OS04YmQwLTNkMWQzNDFjNjc3MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6IjQ1LjEyLjExNC4xNSIsInBvcnQiOiIyMDc3OSIsImlkIjoiOWRjNWJmZjgtYmNiYi00NzAzLWIwZmUtNGY5MWJhNTE3NDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMDkifQ
 
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjQzLjk5LjI0Ny4xMSIsInBvcnQiOiIxMDY1NSIsInR5cGUiOiJzcnRwIiwiaWQiOiJjZDlkNjY4Ny1kMWMwLTQ5ZDktODlmYS0yYWM5MDk0MGIxN2EiLCJhaWQiOiIwIiwibmV0Ijoia2NwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6Ijg0LjI0Ny4xNDkuNzciLCJwb3J0IjoiNDcyMTEiLCJpZCI6ImZiNjc0MjYwLTFjMjEtNGY5OS04YmQwLTNkMWQzNDFjNjc3MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzMifQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzZFx1ZGQxMiIsImFkZCI6IjIxNi4yMjcuMTY4LjE1NyIsInBvcnQiOiI0NTI0NSIsInR5cGUiOiJub25lIiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoieWUuZnhsY24uY29tIiwidGxzIjoiIn0
 
