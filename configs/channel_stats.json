@@ -1,24 +1,24 @@
 {
-  "timestamp": "2025-06-19T18:13:00.367431+00:00",
+  "timestamp": "2025-06-19T20:11:17.313308+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 22946,
-        "valid_configs": 149,
-        "unique_configs": 149,
-        "avg_response_time": 0.06,
+        "total_configs": 23250,
+        "valid_configs": 150,
+        "unique_configs": 150,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.07,
-        "last_success": "2025-06-19T18:12:58.306355+00:00",
+        "overall_score": 75.05,
+        "last_success": "2025-06-19T20:11:15.186560+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 0,
+          "hysteria2://": 1,
           "vless://": 70,
-          "vmess://": 17,
-          "ss://": 9,
+          "vmess://": 18,
+          "ss://": 8,
           "trojan://": 53,
           "tuic://": 0
         }
@@ -28,20 +28,20 @@
       "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html#v2ray_Extractor_mix",
       "enabled": true,
       "metrics": {
-        "total_configs": 36,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 0.06,
+        "total_configs": 5776,
+        "valid_configs": 76,
+        "unique_configs": 76,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.08,
-        "last_success": "2025-06-19T18:13:00.366668+00:00",
+        "overall_score": 75.29,
+        "last_success": "2025-06-19T20:11:17.312431+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 0,
-          "vless://": 1,
-          "vmess://": 1,
-          "ss://": 4,
+          "hysteria2://": 1,
+          "vless://": 24,
+          "vmess://": 14,
+          "ss://": 37,
           "trojan://": 0,
           "tuic://": 0
         }
