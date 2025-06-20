@@ -1,48 +1,48 @@
 {
-  "timestamp": "2025-06-20T22:09:12.904073+00:00",
+  "timestamp": "2025-06-20T22:34:36.617777+00:00",
   "channels": [
     {
-      "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+      "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 14514,
-        "valid_configs": 118,
-        "unique_configs": 118,
-        "avg_response_time": 0.17,
+        "total_configs": 36,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2025-06-20T22:09:10.658848+00:00",
+        "overall_score": 77.58,
+        "last_success": "2025-06-20T22:34:34.092021+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 1,
-          "vless://": 46,
-          "vmess://": 16,
-          "ss://": 11,
-          "trojan://": 44,
+          "hysteria2://": 0,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 4,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
     },
     {
-      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html#v2ray_Extractor_mix",
-      "enabled": true,
+      "url": "https://t.me/+xvfXWNVnIeU0OTQ0",
+      "enabled": false,
       "metrics": {
-        "total_configs": 5476,
-        "valid_configs": 74,
-        "unique_configs": 74,
-        "avg_response_time": 0.15,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 75.11,
-        "last_success": "2025-06-20T22:09:12.903204+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 1,
-          "vless://": 23,
-          "vmess://": 13,
-          "ss://": 35,
-          "trojan://": 2,
+          "hysteria2://": 0,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
