@@ -4,7 +4,7 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/US%20%F0%9F%87%BA%F0%9F%87%B8.txt",
-    "https://www.v2nodes.com/subscriptions/country/us/?key=D568EDF666A92BB#us",
+    "https://t.me/+xvfXWNVnIeU0OTQ0",
     # Add more URLs here if you want to include additional sources.
 ]
 
