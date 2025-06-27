@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-06-27T20:11:24.618812+00:00",
+  "timestamp": "2025-06-27T22:10:03.046639+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 53124,
-        "valid_configs": 228,
-        "unique_configs": 228,
-        "avg_response_time": 0.13,
+        "total_configs": 49500,
+        "valid_configs": 220,
+        "unique_configs": 220,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.9,
-        "last_success": "2025-06-27T20:10:43.900367+00:00",
+        "overall_score": 74.96,
+        "last_success": "2025-06-27T22:09:28.108871+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
           "vless://": 84,
-          "vmess://": 39,
-          "ss://": 42,
-          "trojan://": 62,
+          "vmess://": 33,
+          "ss://": 41,
+          "trojan://": 61,
           "tuic://": 0
         }
       }
@@ -28,21 +28,21 @@
       "url": "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt#Dxray_final",
       "enabled": true,
       "metrics": {
-        "total_configs": 187489,
-        "valid_configs": 360,
-        "unique_configs": 360,
-        "avg_response_time": 0.17,
+        "total_configs": 155236,
+        "valid_configs": 329,
+        "unique_configs": 329,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.79,
-        "last_success": "2025-06-27T20:11:24.605608+00:00",
+        "overall_score": 74.91,
+        "last_success": "2025-06-27T22:10:03.035136+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 8,
-          "vless://": 264,
-          "vmess://": 20,
-          "ss://": 65,
-          "trojan://": 3,
+          "hysteria2://": 7,
+          "vless://": 227,
+          "vmess://": 36,
+          "ss://": 59,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
