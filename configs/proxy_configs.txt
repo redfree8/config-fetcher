@@ -120,15 +120,17 @@ trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443/?type=ws&host=CV
 
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443/?type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&security=tls&sni=CVFgTrE4.222560.XyZ&alpn=http%2F1.1&fp=chrome#%40REDFREE8
 
-trojan://Aimer@104.26.15.138:2053?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%40REDFREE8
-
 trojan://Aimer@154.19.241.230:10000?sni=ngepo.ambercc.filegear-sg.me#%40REDFREE8
 
-trojan://Aimer@154.19.241.230:10000?sni=ngepo.ambercc.filegear-sg.me#%40REDFREE8%20%E2%9A%9C
+trojan://Aimer@156.255.90.175:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%40REDFREE8
+
+trojan://Aimer@162.159.38.103:2083?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%40REDFREE8
+
+trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#%40REDFREE8
+
+trojan://Aimer@sage.ns.cloudflare.com:443?sni=ngepo.ambercc.filegear-sg.me#%40REDFREE8
 
 trojan://a4e8ec0a-75d0-4fc5-837a-4973ed3a9d3e@dddfffvvbnhju.931.pp.ua:443/?type=ws&host=dddfffvvbnhju.931.pp.ua&path=%2FeoIwQ2eV4yO04R1hYgCXNutkS5H&security=tls&sni=dDDfFfVVBNHju.931.pP.UA&alpn=http%2F1.1&fp=chrome#%40REDFREE8
-
-trojan://bbaacac-baca-cbaa-dbac-bbaaccbaabcc@127.0.0.1:8080?security=tls&type=tcp#%40REDFREE8%20%E2%9A%9C
 
 trojan://da128246-33b0-4c88-a44e-d91e9e0a1e05@sssdddffgbnhju.2030.pp.ua:443/?type=ws&host=sssdddffgbnhju.2030.pp.ua&path=%2FUmUQq8h08wB9JsgTazwz9&security=tls&sni=SsSDdDffGBNhJu.2030.Pp.Ua&alpn=http%2F1.1&fp=chrome#%40REDFREE8
 
@@ -142,9 +144,9 @@ trojan://telegram-id-directvpn@13.37.59.91:22223?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-directvpn@15.188.124.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
-trojan://telegram-id-directvpn@15.236.147.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
+trojan://telegram-id-directvpn@15.188.124.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
 
-trojan://telegram-id-directvpn@15.236.147.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8%20%E2%9A%9C
+trojan://telegram-id-directvpn@15.236.147.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 trojan://telegram-id-directvpn@15.237.102.198:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
@@ -169,8 +171,6 @@ trojan://telegram-id-directvpn@35.181.29.16:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@51.44.59.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 trojan://telegram-id-directvpn@63.177.25.243:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-trojan://telegram-id-privatevpns@13.37.177.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@fr4.eyucdn.xyz:2056/?insecure=1&sni=fr4.eyucdn.xyz#%40REDFREE8
 
@@ -218,7 +218,7 @@ hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264/?insecure=1&sni=bing.c
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6IjEwMy43Mi41LjIyMSIsInBvcnQiOiI0NjY2NiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Ind3dy43Mjk2OTg1Ni54eXoiLCJwYXRoIjoiL3BhdGgvMTcwNzMzMTMyMjMzIiwidGxzIjoidGxzIiwic25pIjoid3d3LjcyOTY5ODU2Lnh5eiIsInRlc3RfbmFtZSI6IjExNSJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1ZDgzZFx1ZGQxMiIsImFkZCI6IjIxOS4xNTEuMjAuNjIiLCJwb3J0IjoiNDIzMjQiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDM4MWJlYWUtNDVhNi00NDIxLTg1NDctNjVlMzEyZGQyMDRhIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImUtanBnc3ZtLmRvbmdmYW5neWloYW8ueHl6IiwidGxzIjoiIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IFx1MjY5YyIsImFkZCI6IjIxOS4xNTEuMjAuNjIiLCJwb3J0IjoiNDIzMjQiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDM4MWJlYWUtNDVhNi00NDIxLTg1NDctNjVlMzEyZGQyMDRhIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImUtanBnc3ZtLmRvbmdmYW5neWloYW8ueHl6IiwidGxzIjoiIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoiNDUuMTM3LjE1NS40NSIsInBvcnQiOiIxNzY0NiIsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzNyJ9
 
@@ -228,7 +228,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoibnBtanMuY29tIiwicG9ydCI6Ijgw
 
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoibnBtanMuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6IjJrNXBpd2x3eGciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMms1cGl3bHd4Zy0yNTkxMzQxNTcua2hhc3RlaG5hYmFzaGkuY29tIiwicGF0aCI6Ii9hdm9yby9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
 
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoibnBtanMuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6Im1zNWZ1NjZvZnMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibXM1ZnU2Nm9mcy00NTE1MDE3NDc3Lm1hc2hhbGxhaGJldC5jb20iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
+
 vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoibnBtanMuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6ImRubHFmYXFxcm4iLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZG5scWZhcXFybi05MTk5MTMwMTIxLmtoYXN0ZWhuYWJhc2hpLmNvbSIsInBhdGgiOiIvaGV0em5lci9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
+
+vmess://eyJ2IjoiMiIsInBzIjoiQFJFREZSRUU4IiwiYWRkIjoibnBtanMuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6InhqdTk2a250ZmoiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoieGp1OTZrbnRmai00NTE1MDE3NDc4Lm1hc2hhbGxhaGJldC5jb20iLCJwYXRoIjoiL25hc25ldC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
 
 vmess://eyJhZGQiOiI0NS44LjE0NS4xNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzAzODAyNGYtM2EzNC00MjI4LWI2MWMtZDc0MWIyZmJlYzhmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDUyMCIsInBzIjoiQFJFREZSRUU4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 
@@ -267,8 +271,4 @@ vmess://eyJhZGQiOiI4NC4yNDcuMTQ4LjE5MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiI5OS4xOTkuNzMuNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiIyOWY4NjY0MC0wMzU5LTQ1NmMtZDZlNi03NTE1NWIzZDc4MWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9CSUFfQ0hBTkVMQEpPS0VSUlZQTiIsInBvcnQiOiIzMzIzMCIsInBzIjoiQFJFREZSRUU4IFx1MjcwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 
 vmess://eyJhZGQiOiI5OS4xOTkuNzMuNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiIyZjE2NWFjMy01NzNmLTQzNjEtYjdmMi02YzJkNGRjMzYwNDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9CSUFfQ0hBTkVMQEpPS0VSUlZQTiIsInBvcnQiOiIzNzMzMyIsInBzIjoiQFJFREZSRUU4IFx1MjcwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
-
-vmess://eyJhZGQiOiIxMDQuMTcuMTc2LjE3MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLCJpZCI6IjZjYmM5Yzc4LTFjYjEtNTdkNC1hOTk5LWUyZjRlMzRjMWUwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IkBSRURGUkVFOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-
-vmess://eyJhZGQiOiIxMzkuMTQ0LjIxOS4xNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4YzI3NzdjOS1jNWU3LTRiMzQtYWNkYi03MTYwMGVmMDJlODkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAxIiwicHMiOiJAUkVERlJFRTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 
