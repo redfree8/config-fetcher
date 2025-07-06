@@ -256,7 +256,7 @@ class ConfigFetcher:
                         channel.metrics.unique_configs += 1
                         self.seen_configs.add(clean_config)
                         # --- START OF OUR CHANGE (to tag the config) ---
-                        tagged_config = set_remark(clean_config, "@REDFREE8")
+                        tagged_config = set_remark(clean_config, "@REDFREE8#POORIA")
                         processed_configs.append(tagged_config)
                         # --- END OF OUR CHANGE ---
                         self.protocol_counts[protocol] += 1
