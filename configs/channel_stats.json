@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-07-07T10:11:39.519836+00:00",
+  "timestamp": "2025-07-07T12:18:39.813300+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 49946,
-        "valid_configs": 221,
-        "unique_configs": 221,
-        "avg_response_time": 0.1,
+        "total_configs": 52664,
+        "valid_configs": 227,
+        "unique_configs": 227,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.96,
-        "last_success": "2025-07-07T10:11:18.444665+00:00",
+        "overall_score": 74.85,
+        "last_success": "2025-07-07T12:18:18.815877+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
           "vless://": 84,
-          "vmess://": 27,
-          "ss://": 55,
-          "trojan://": 50,
+          "vmess://": 28,
+          "ss://": 53,
+          "trojan://": 57,
           "tuic://": 0
         }
       }
@@ -31,11 +31,11 @@
         "total_configs": 114921,
         "valid_configs": 278,
         "unique_configs": 277,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.93,
-        "last_success": "2025-07-07T10:11:37.164101+00:00",
+        "overall_score": 74.71,
+        "last_success": "2025-07-07T12:18:37.500272+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 8,
@@ -52,20 +52,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 10000,
-        "valid_configs": 5,
-        "unique_configs": 3,
-        "avg_response_time": 0.03,
+        "valid_configs": 10,
+        "unique_configs": 8,
+        "avg_response_time": 0.0,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.97,
-        "last_success": "2025-07-07T10:11:39.518340+00:00",
+        "overall_score": 70.02,
+        "last_success": "2025-07-07T12:18:39.811782+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 2,
+          "vmess://": 3,
           "ss://": 0,
-          "trojan://": 3,
+          "trojan://": 7,
           "tuic://": 0
         }
       }
