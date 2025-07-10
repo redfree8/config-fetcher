@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-10T12:19:35.133387+00:00",
+  "timestamp": "2025-07-10T14:11:21.929323+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 173466,
         "valid_configs": 414,
         "unique_configs": 414,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.0,
-        "last_success": "2025-07-10T12:19:26.629108+00:00",
+        "overall_score": 74.86,
+        "last_success": "2025-07-10T14:11:13.376658+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 84,
@@ -31,11 +31,11 @@
         "total_configs": 47089,
         "valid_configs": 191,
         "unique_configs": 191,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.06,
-        "last_success": "2025-07-10T12:19:32.790075+00:00",
+        "overall_score": 74.96,
+        "last_success": "2025-07-10T14:11:19.599984+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
@@ -52,20 +52,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 10000,
-        "valid_configs": 3,
-        "unique_configs": 3,
-        "avg_response_time": 0.01,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.02,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.99,
-        "last_success": "2025-07-10T12:19:35.131692+00:00",
+        "last_success": "2025-07-10T14:11:21.927746+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 2,
+          "vmess://": 1,
           "ss://": 0,
-          "trojan://": 1,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
