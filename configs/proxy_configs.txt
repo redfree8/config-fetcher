@@ -80,8 +80,6 @@ trojan://3723507166611775488@35.155.4.93:443?security=tls&headerType=none&type=t
 
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#POORIA%20%E2%9A%9C
 
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?allowInsecure=1&sni=nextstepcareer.online#POORIA
-
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#POORIA%20%E2%9A%9C
 
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
@@ -96,9 +94,13 @@ trojan://67828a6e-0144-4e57-8169-2447a3dd2e61@ssrsub.cloudflare.182682.xyz:8443?
 
 trojan://67828a6e-0144-4e57-8169-2447a3dd2e61@ssrsub.cloudflare.182682.xyz:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=%2Fprofile%2Ftelegram%40v2ray_configs_pools&host=cdn-node-oss-99.paofu.de#POORIA
 
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@de01a.kbservice.club:443/?type=tcp&security=tls&sni=45.32.28.232&allowInsecure=1#POORIA
+
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#POORIA
 
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
+
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&fp=chrome&type=tcp#POORIA
 
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?allowInsecure=1#POORIA
 
@@ -113,8 +115,6 @@ trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#POORIA%20%E2%9D%94
 
 trojan://af4d2493-9156-4514-9f6b-ee5d1a1e4713@download2hkt.windowsupdate.lol:443?security=tls#POORIA
-
-trojan://af4d2493-9156-4514-9f6b-ee5d1a1e4713@download2hkt.windowsupdate.lol:443?security=tls#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?insecure=0&sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#POORIA
 
@@ -238,6 +238,8 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJwb3J0IjoiNDkzMDIiLCJpZCI6IjQx
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjEzOC43NC4xNzMiLCJwb3J0IjoxMzcwMCwiaWQiOiJmMzhhNTUwMC03N2RlLTQzODQtODZmNS01NGQ3YWI1ZGUyYzgiLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicGF0aCI6IlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZjkifQ
 
+vmess://eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yNS4yNSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJmLmtoaWxlaS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJwcyI6IlBPT1JJQSBcdWQ4M2RcdWRjNDkifQ
+
 vmess://eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yOC42OSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJiYXJhZGloYS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEifQ
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjkxLjEwNy4xNjAuMjQwIiwicG9ydCI6IjE1Nzk1IiwiaWQiOiI3Y2E2YzEzYS1lNDUwLTQ5ZmEtOWI5Yy1iNDlhNmVkYTViNzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InNvZnQ5OC5pciIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIn0
@@ -281,6 +283,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTAzLjIyNC44MC45MiIsInBvcnQiOiI1
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiNDcuNzYuMjguNDMiLCJwb3J0IjoiMzQ4MzMiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiZGQwZDMwYWUtYTRkMS00ZDFlLTg1NTMtNDJiZmZmNjZmZDI3Iiwic25pIjoiIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiOC4yMTEuMTQ1LjE0NiIsInBvcnQiOiIyMzg5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjlmOWYzOTViLWU5YjItNGNmZC04NWIzLTA0MjVmMGUxMWFkNyIsInNuaSI6IiJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiZGUudm1lc3MuY29tbnBtanMuY29tIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImNlYWFmNjUzLTk4NzQtNThjNi1iMTAwLTA5MmMwMWExZjczZCIsInNuaSI6ImRlLnZtZXNzLmNvbW5wbWpzLmNvbSIsInBhdGgiOiJ2bWVzcy1ncnBjIn0
 
