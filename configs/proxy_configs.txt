@@ -152,8 +152,6 @@ hysteria2://wl4HYN9PPKs8d8IzGIt4yKqt0@47.74.34.102:53348/?insecure=1#POORIA
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org&fp=chrome&type=tcp&allowInsecure=1#POORIA%20%E2%9C%85
 
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#POORIA
-
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&fp=chrome&type=tcp&allowInsecure=1#POORIA%20%E2%9C%85
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&headerType=none&type=tcp&sni=rc9.freeguard.org#POORIA%20%E2%9C%85
@@ -162,7 +160,9 @@ trojan://74260628090146500@huge-turkey.shiner427.skin:443/?type=tcp&security=tls
 
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#POORIA
 
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#POORIA
+trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#POORIA
+
+trojan://dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59@194.104.147.74:1066?allowInsecure=1#POORIA
 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?encryption=none&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#POORIA%20%E2%9C%85
 
@@ -172,9 +172,13 @@ vmess://eyJhZGQiOiI0Ny4yMzkuMTI2LjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiUE9PUklBIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 
+vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwidiI6IjIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwicHMiOiJQT09SSUEgXHVkODNkXHVkYzQ5In0
+
 vmess://eyJhZGQiOiIxMDMuMzguODMuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImVkYzQ5M2NhLWI5MzktNDA5Ny1lMGMzLWM4ZmVlMjQzZWFjNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzcxMjIiLCJwcyI6IlBPT1JJQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 
 vmess://eyJhZGQiOiIxMDQuMjEuMy4xODkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsImlkIjoiMmZjMzc3MTMtMzAxNy00OTdlLWZmMmQtOTY1ZjgyNmExOWEzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUzIiwicHMiOiJQT09SSUEiLCJzY3kiOiJhdXRvIiwic25pIjoiY2MyZDQuODkwNjAwMDQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWJhY2JjYS1iY2FhLWFiYWMtZGJhYy1hY2JhYmNhY2JhYmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzZFx1ZGM0OSJ9
 
 vmess://eyJhZGQiOiIxNDMuOTIuNDEuMTU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijc1NDA0YmVkLWVhNzktNGEwMy1lZDI4LWNiYmZmYTI5MTI4NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzk2MzIiLCJwcyI6IlBPT1JJQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 
