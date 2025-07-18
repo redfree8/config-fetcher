@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-18T10:11:26.157757+00:00",
+  "timestamp": "2025-07-18T12:19:55.225975+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 22046,
         "valid_configs": 90,
         "unique_configs": 90,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.84,
-        "last_success": "2025-07-18T10:10:49.349876+00:00",
+        "overall_score": 75.02,
+        "last_success": "2025-07-18T12:19:18.426195+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 182329,
         "valid_configs": 279,
         "unique_configs": 279,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.89,
-        "last_success": "2025-07-18T10:11:23.673519+00:00",
+        "overall_score": 74.96,
+        "last_success": "2025-07-18T12:19:52.774786+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 17,
@@ -49,23 +49,23 @@
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt#Freedom-pooria",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 10000,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "valid_configs": 1,
+        "unique_configs": 1,
+        "avg_response_time": 0.01,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 74.99,
+        "last_success": "2025-07-18T12:19:55.224535+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
