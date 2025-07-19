@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-19T18:14:15.935441+00:00",
+  "timestamp": "2025-07-19T20:12:05.276945+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 175974,
         "valid_configs": 417,
         "unique_configs": 417,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.96,
-        "last_success": "2025-07-19T18:13:28.286833+00:00",
+        "overall_score": 74.87,
+        "last_success": "2025-07-19T20:11:17.714221+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 84,
@@ -31,11 +31,11 @@
         "total_configs": 209764,
         "valid_configs": 306,
         "unique_configs": 306,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.02,
-        "last_success": "2025-07-19T18:14:13.557294+00:00",
+        "overall_score": 74.87,
+        "last_success": "2025-07-19T20:12:03.160818+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 16,
@@ -51,21 +51,21 @@
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt#Freedom-pooria",
       "enabled": true,
       "metrics": {
-        "total_configs": 10000,
-        "valid_configs": 4,
-        "unique_configs": 4,
-        "avg_response_time": 0.03,
+        "total_configs": 81,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.96,
-        "last_success": "2025-07-19T18:14:15.933939+00:00",
+        "overall_score": 77.63,
+        "last_success": "2025-07-19T20:12:05.275811+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 0,
+          "hysteria2://": 9,
           "vless://": 0,
-          "vmess://": 1,
+          "vmess://": 0,
           "ss://": 0,
-          "trojan://": 3,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
