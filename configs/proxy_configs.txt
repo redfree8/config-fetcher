@@ -174,17 +174,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NXIzVkhMdHJQdVlvM2V2b1ZpS3dp@fox-usa.outlin
 
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#POORIA
 
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?allowInsecure=1&sni=rc8.freeguard.org#POORIA
-
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org&fp=chrome&type=tcp&allowInsecure=1#POORIA%20%E2%9C%85
 
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#POORIA
+
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&headerType=none&type=tcp&sni=rc9.freeguard.org#POORIA%20%E2%9C%85
-
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#POORIA
 
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
 
@@ -198,17 +196,15 @@ trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&securi
 
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#POORIA
 
-trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443/?type=tcp&security=tls&sni=download2hkt.windowsupdate.lol#POORIA
-
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
-trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&sni=pt.mjt000.com#POORIA
 
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#POORIA%20%F0%9F%87%B7%F0%9F%87%BA
 
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#POORIA%20%E2%9D%94
+
+trojan://aaacbcb-caab-abca-cdba-abbbcbccaaac@127.0.0.1:8080?security=tls&type=tcp#POORIA
 
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -227,6 +223,10 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:41225?allowInsecure=1&sn
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:44123?allowInsecure=1&sni=www.baidu.com#POORIA
 
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:4447?allowInsecure=1&sni=www.baidu.com#POORIA
+
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?allowInsecure=1&sni=www.baidu.com#POORIA
+
+trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?allowInsecure=0&sni=nkrpjj.cn#POORIA
 
 vmess://eyJ0eXBlIjoiaHR0cCIsInBvcnQiOiIxNTQwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwic2N5IjoiYXV0byIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiY2M2NjA2MTQtMTE3Mi00OTg4LTk2NDctMzg0NjUwMmQwZTRmIiwiYWRkIjoidHUuc2hvcHR4LnNicyIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyJ9
 
