@@ -178,9 +178,11 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org&fp=chrome&type=tcp&allowInsecure=1#POORIA%20%E2%9C%85
 
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#POORIA
+
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#POORIA
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?sni=bangladeshipatri.com&peer=bangladeshipatri.com&security=tls#POORIA
 
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
 
@@ -198,7 +200,7 @@ trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sn
 
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#POORIA%20%F0%9F%87%B7%F0%9F%87%BA
 
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls&fp=chrome&type=tcp&allowInsecure=1#POORIA
+trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?sni=bangladeshipatri.com&peer=bangladeshipatri.com&security=tls#POORIA
 
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -208,11 +210,7 @@ trojan://AQYZMBIoZd@104.25.197.102:8443?type=ws&path=%2F%3Fed%3D2048&host=cdn656
 
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#POORIA%20%E2%9D%94
 
-trojan://NISHIKUITAN111@172.67.242.135:443?#POORIA
-
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#POORIA
 
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.13:1122?allowInsecure=1&sni=www.baidu.com#POORIA
 
@@ -228,6 +226,8 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:41225?allowInsecure=1&sn
 
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:44123?allowInsecure=1&sni=www.baidu.com#POORIA
 
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:4447?allowInsecure=1&sni=www.baidu.com#POORIA
+
 vmess://eyJ0eXBlIjoiaHR0cCIsInBvcnQiOiIxNTQwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwic2N5IjoiYXV0byIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiY2M2NjA2MTQtMTE3Mi00OTg4LTk2NDctMzg0NjUwMmQwZTRmIiwiYWRkIjoidHUuc2hvcHR4LnNicyIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyJ9
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjE2Ny4yMzUuMjA0LjEyMiIsInBvcnQiOiI4MCIsImlkIjoiMmFhYzc3ZGUtYjNlNC00MDE3LTg0NWMtY2ExMzgwZjJlOGQwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdGVsZWdyYW0taWQtQHByaXZhdGV2cG5zIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSJ9
@@ -237,8 +237,6 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJwb3J0IjoiNDkzMDIiLCJpZCI6IjQx
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjEzOC43NC4xNzMiLCJwb3J0IjoxMzcwMCwiaWQiOiJmMzhhNTUwMC03N2RlLTQzODQtODZmNS01NGQ3YWI1ZGUyYzgiLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicGF0aCI6IlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZjkifQ
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yNC4xMjQiLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJob3N0IjoiYXZlaXJvci5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEifQ
-
-vmess://eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yNS4yMiIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJwcyI6IlBPT1JJQSBcdWQ4M2RcdWRjNDkifQ
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yOC42OSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJiYXJhZGloYS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEifQ
 
@@ -255,6 +253,8 @@ vmess://eyJ2IjoiMiIsImFkZCI6ImRpc2NvcmQubm9vbmV0cnkuc2hvcCIsInBvcnQiOjM1MTY1LCJp
 vmess://eyJ2IjoiMiIsImFkZCI6ImdlLTYuamVkYWx2aXAuc2l0ZSIsInBvcnQiOiIxNzMwNSIsImlkIjoiNjU0NmM2NzgtM2YyMi00YTMyLTg5OWItODQwMzVjZTQwMTk5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiUE9PUklBIFx1Mjc1NCJ9
 
 vmess://eyJ2IjoiMiIsImFkZCI6InBhbmVsMy5pcHlhci5vcmciLCJwb3J0IjoiMzIwMTciLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSJ9
+
+vmess://eyJ2IjoiMiIsImFkZCI6InNlY3UuZG9zLmNoaWJlZ2FtLnh5eiIsInBvcnQiOjE5MTUzLCJpZCI6IjlmNDNmZjQ5LTgzMzAtNDkxNC1iMWI5LWVmMjBiYTVhNTA3YiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyIsImhvc3QiOiJjbG91ZGZsYXJlLmNvbSIsInBzIjoiUE9PUklBIFx1ZDgzZFx1ZGM0OSJ9
 
 vmess://eyJ2IjoiMiIsImFkZCI6InRyMS5pcmFuei5tZSIsInBvcnQiOiI0NDMiLCJpZCI6IjExNDViOGYxLTcyYjktNGUzYy1hZWRlLTFiODg0ZjU2NTM3ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRyMS5pcmFuei5tZSIsInRscyI6InRscyIsInBzIjoiUE9PUklBIFx1Mjc1NCJ9
 
