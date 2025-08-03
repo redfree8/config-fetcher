@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-03T12:18:32.026170+00:00",
+  "timestamp": "2025-08-03T14:09:18.801119+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 175974,
         "valid_configs": 417,
         "unique_configs": 417,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2025-08-03T12:18:26.373264+00:00",
+        "overall_score": 74.89,
+        "last_success": "2025-08-03T14:09:12.883643+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 84,
@@ -28,20 +28,20 @@
       "url": "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt#Dxray_final",
       "enabled": true,
       "metrics": {
-        "total_configs": 31329,
-        "valid_configs": 152,
-        "unique_configs": 152,
-        "avg_response_time": 0.0,
+        "total_configs": 28561,
+        "valid_configs": 147,
+        "unique_configs": 147,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.11,
-        "last_success": "2025-08-03T12:18:30.016606+00:00",
+        "last_success": "2025-08-03T14:09:16.783475+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 6,
-          "vless://": 109,
-          "vmess://": 3,
-          "ss://": 33,
+          "hysteria2://": 3,
+          "vless://": 110,
+          "vmess://": 5,
+          "ss://": 28,
           "trojan://": 1,
           "tuic://": 0
         }
