@@ -60,21 +60,23 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443/?type=grpc&encrypt
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.140.0.141:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#POORIA
 
-trojan://NISHIKUITAN111@104.17.120.240:443?allowInsecure=1&ws=1&wspath=%2F#POORIA
+trojan://Aimer@103.76.85.178:30002/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#POORIA
 
-trojan://NISHIKUITAN111@140.99.233.144:443?allowInsecure=1#POORIA
+trojan://Aimer@121.165.36.35:12367/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#POORIA
 
-trojan://NISHIKUITAN111@190.93.244.215:443?allowInsecure=1&ws=1&wspath=%2F#POORIA
+trojan://Aimer@43.132.239.42:12443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#POORIA
+
+trojan://Aimer@5.182.84.52:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#POORIA
+
+trojan://NISHIKUITAN111@104.19.241.122:443?allowInsecure=1&ws=1&wspath=%2F#POORIA
+
+trojan://auto@172.66.44.106:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/#POORIA
 
 trojan://bbbbbbbb-cccc-4ddd-eeee-ffffffffffff@vipren.biz.id:443/?type=ws&host=vipren.biz.id&path=%2FNeoxide-X%2F194.87.62.236-443&security=tls&sni=vipren.biz.id#POORIA
 
-trojan://blue2024@103.21.244.169:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#POORIA
+trojan://blue2024@icook.tw:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#POORIA
 
-trojan://blue2024@104.16.81.105:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#POORIA
-
-trojan://blue2024@104.19.184.114:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#POORIA
-
-trojan://blue2024@trevor.ns.cloudflare.com:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#POORIA
+trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=%2Fxhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#POORIA
 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#POORIA%20%F0%9F%8D%80
 
@@ -96,9 +98,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.139
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#POORIA%20%F0%9F%8D%BF
 
-vmess://eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yNS4yMiIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJwcyI6IlBPT1JJQSBcdWQ4M2RcdWRjNDkifQ
-
-vmess://eyJ2IjoiMiIsImFkZCI6Ind3dy5mYXN0bC5jZG4uMi5hbGliYWJhMTQwNS5vcmciLCJwb3J0Ijo4MCwiaWQiOiI0NjU0OTJiYS0zNDA5LTRhNWEtYjU4OC0xMTc5ZGEwN2Q4MTQiLCJhaWQiOjAsIm5ldCI6InhodHRwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicGVyc2lhbnZwbi5nbG9iYWwuc3NsLmZhc3RseS5uZXQiLCJwYXRoIjoiL3BlcnNpYW52cG4iLCJ0bHMiOiJub25lIiwicHMiOiJQT09SSUEgXHVkODNkXHVkYzQ5In0
+vmess://eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yOC42OSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJiYXJhZGloYS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJwcyI6IlBPT1JJQSBcdWQ4M2RcdWRjNDkifQ
 
 vmess://eyJhZGQiOiI0NS42Ny4xMzkuMjI1IiwidiI6IjIiLCJwcyI6IlBPT1JJQSIsInBvcnQiOjIwMDg2LCJpZCI6ImQzOTI4MzMwLTQwNTAtNDdmNi05ZDFjLWRmMWZkODAxYzU2OCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ
 
