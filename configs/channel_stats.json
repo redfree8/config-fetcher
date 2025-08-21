@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-20T22:13:40.417045+00:00",
+  "timestamp": "2025-08-21T00:49:11.266235+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -28,21 +28,21 @@
       "url": "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt#Dxray_final",
       "enabled": true,
       "metrics": {
-        "total_configs": 106276,
+        "total_configs": 105625,
         "valid_configs": 296,
         "unique_configs": 296,
-        "avg_response_time": 0.0,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.06,
-        "last_success": "2025-08-20T22:10:53.097342+00:00",
+        "last_success": "2025-08-21T00:46:24.172721+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 9,
-          "vless://": 250,
-          "vmess://": 23,
-          "ss://": 12,
-          "trojan://": 2,
+          "hysteria2://": 11,
+          "vless://": 246,
+          "vmess://": 25,
+          "ss://": 13,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
