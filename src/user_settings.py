@@ -6,6 +6,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt#Dxray_final",
     "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt#Freedom-pooria",
+    "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 
