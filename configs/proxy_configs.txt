@@ -24,6 +24,8 @@ vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@46.226.163.236:443?encryption=none&
 
 vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.halfords.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&headerType=none#POORIA
 
+vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2FTELEGRAM_JKVPN_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=www.halfords.com#POORIA
+
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#POORIA%20%F0%9F%87%AB%F0%9F%87%B7%F0%9F%87%B3%F0%9F%87%B1
 
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#POORIA
@@ -86,8 +88,6 @@ vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@188.114.96.3:80?path=%2FpgLUAo7mya6
 
 vless://277f230b-638b-47c9-95d5-032f99186283@cf-assets-blog.cyberscaler.net:443?security=reality&encryption=none&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&headerType=none&fp=chrome&spx=%2Fcdn-cgi%2Ftrace&type=tcp&sni=blog.cloudflare.com&sid=14#POORIA%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#POORIA
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTY2ZTM5NC1mNGM2LTRmMzAtOWFjYi0wOWEyNjQ0ZTA5MzA@1.170.16.83:10133#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmM4OWIxZS05M2E5LTQ2ZDktYmJiZi03MGU3NzhhODg3N2U@114.46.72.1:10045#POORIA
@@ -106,9 +106,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edge
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YzBkM2FjZS1lZWU1LTRlZTUtOWFlZi0xNDc2MWEwZTU5YzQ@1.170.40.155:10088#POORIA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTE5ZTViZi00YzEwLTQ3OGUtOGNiZi0wOGMyYzc0YmI5OWU@1.170.41.211:10112#POORIA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTQzNGVmYy1mOTUyLTQ2YTUtOTg4OC03MTQ1ZWVmYzU4MWU@1.170.5.230:10102#POORIA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTE5ZTViZi00YzEwLTQ3OGUtOGNiZi0wOGMyYzc0YmI5OWU@114.46.78.82:10080#POORIA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTQzNGVmYy1mOTUyLTQ2YTUtOTg4OC03MTQ1ZWVmYzU4MWU@36.235.20.125:10110#POORIA
 
@@ -121,10 +123,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl02.saint.ydns.eu:8080#POORIA%20%F0%9F%87%B3%F0%9F%87%B1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMGI5YTg1ZS1lYTZhLTQ1MDktYTkzNy0yY2JjMTVhYWE3YjM@111.253.209.195:10150#POORIA
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMGI5YTg1ZS1lYTZhLTQ1MDktYTkzNy0yY2JjMTVhYWE3YjM@114.46.78.82:10080#POORIA
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGI4YzljOS1iODM5LTRkYWMtYjc3NC05NzAyOGIxMjFhMTM@1.170.39.112:10092#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGI4YzljOS1iODM5LTRkYWMtYjc3NC05NzAyOGIxMjFhMTM@36.232.104.92:10125#POORIA
 
@@ -156,8 +154,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjNiYzA0MC03ZjNkLTQ3NmQtYmVlZi1hZGYwNjFjZjBlOWE@1.170.41.211:10112#POORIA
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjRjMmQyYy01MDQ4LTRkYTAtODA1My02ZmIxOWFkZmYzNTA@36.232.84.245:10124#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjbDR4Y1Y5ZGNOV3dxQmtXYnpzR0ht@89.185.84.185:443#POORIA%20%F0%9F%87%AC%F0%9F%87%A7
@@ -171,6 +167,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzJjZjNhNi00NTNlLTRmNmYtYjk0OS1jMzYzYTA2NzQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc@1.170.31.68:10117#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#POORIA%20%F0%9F%87%B2%F0%9F%87%BE
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#POORIA%20%F0%9F%87%A8%F0%9F%87%B7
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#POORIA%20%F0%9F%87%A8%F0%9F%87%B4
 
 trojan://1sbtkLK7F3@195.22.157.104:48677?host=joon.arshiacomplus.dpdns.org&path=%2Fewrf4d453&security=tls&sni=joon.arshiacomplus.dpdns.org&type=ws#POORIA
 
