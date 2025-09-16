@@ -42,8 +42,6 @@ vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=n
 
 vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=none&encryption=none&type=grpc#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#POORIA
-
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#POORIA%20%F0%9F%87%AE%F0%9F%87%B3
 
 vless://0882a150-746a-4ba7-81b8-7922511894c5@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#POORIA%20%E2%9C%85
@@ -87,6 +85,8 @@ vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvo
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@104.21.58.22:443?encryption=none&security=tls&sni=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026cd.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
 
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@172.67.198.112:443?encryption=none&security=tls&sni=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026cd.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
+
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@95.179.160.22:443?encryption=none&security=tls&sni=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#POORIA%20%F0%9F%87%B8%F0%9F%87%AA
 
@@ -188,8 +188,6 @@ trojan://745654@154.3.37.9:443?security=tls&sni=hk.cestbon.work&fp=chrome&type=t
 
 trojan://94cf288d-f764-4ce9-a547-a7228144f056@gercdn.bm04.xyz:2053?encryption=none&security=tls&sni=gercdn.bm04.xyz&alpn=h3,h2,http/1.1&fp=random&type=ws&host=gercdn.bm04.xyz&path=/project/activity/ws/&allowInsecure=1#POORIA
 
-trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@de.viefast.net:443?allowInsecure=1&sni=csapp.catch.net.tw#POORIA
-
 trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=moshali.arshiacomplus.dpdns.org&type=ws&host=moshali.arshiacomplus.dpdns.org&path=/moshaliplus#POORIA
 
 trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#POORIA
@@ -255,6 +253,8 @@ trojan://telegram-id-privatevpns@3.72.151.13:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@35.181.130.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
 trojan://telegram-id-privatevpns@63.176.70.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
+
+trojan://telegram-id-privatevpns@63.179.38.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
 hysteria2://04a24f06-17fa-464b-a799-90600783499f@hg1.xiaohuolongjc.top:37771?sni=hg1.xiaohuolongjc.top&insecure=1#POORIA
 
