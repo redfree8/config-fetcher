@@ -38,6 +38,8 @@ vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=n
 
 vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=none&encryption=none&type=grpc#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#POORIA
+
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#POORIA%20%F0%9F%87%AE%F0%9F%87%B3
 
 vless://0882a150-746a-4ba7-81b8-7922511894c5@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#POORIA%20%E2%9C%85
@@ -86,8 +88,6 @@ vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@95.179.160.22:443?encryption=none&s
 
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?encryption=none&security=tls&sni=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
 
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026cd.zanddynastyofpersia.org:443?encryption=none&security=tls&sni=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026cd.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#POORIA%20%F0%9F%87%B8%F0%9F%87%AA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#POORIA%20%F0%9F%87%B8%F0%9F%87%AA
@@ -111,6 +111,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno=@media.mothyleela.cfd:40521#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#POORIA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -170,7 +172,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#POORIA%20%F0%9F%87%AB%F0%9F%87%AE
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#POORIA%20%F0%9F%87%B5%F0%9F%87%B1
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?allowInsecure=0&sni=hk.freeguard.org#POORIA
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp&path=%2f#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -187,8 +189,6 @@ trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&s
 trojan://745654@154.3.37.9:443?security=tls&sni=hk.cestbon.work&fp=chrome&type=tcp&headerType=none&path=%2f#POORIA%20%F0%9F%87%AD%F0%9F%87%B0
 
 trojan://94cf288d-f764-4ce9-a547-a7228144f056@gercdn.bm04.xyz:2053?encryption=none&security=tls&sni=gercdn.bm04.xyz&alpn=h3,h2,http/1.1&fp=random&type=ws&host=gercdn.bm04.xyz&path=/project/activity/ws/&allowInsecure=1#POORIA
-
-trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@de.viefast.net:443?allowInsecure=1&sni=csapp.catch.net.tw#POORIA
 
 trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=moshali.arshiacomplus.dpdns.org&type=ws&host=moshali.arshiacomplus.dpdns.org&path=/moshaliplus#POORIA
 
