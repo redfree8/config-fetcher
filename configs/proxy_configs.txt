@@ -14,11 +14,11 @@ vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&pa
 
 vless://00fcbecb-d832-40a0-b2b1-76bb56df166b@104.248.193.151:443?path=%2FFree-VPN-CF-Geo-Project%2FNL10&security=tls&encryption=none&host=joss.krikkrik.tech&fp=randomized&type=ws&sni=joss.krikkrik.tech#POORIA
 
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#POORIA
-
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=%2Fhqqprlws&security=tls&encryption=none&type=ws#POORIA
 
 vless://031fe63c-f7da-40b7-960d-1101df6eda60@mstr.fastly80.hosting-ip.com:80?encryption=none&security=none&type=ws&host=Gn8656.io&path=%2Fadmin#POORIA
+
+vless://031fe63c-f7da-40b7-960d-1101df6eda60@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=&encryption=none&host=Gn8656.io&type=ws#POORIA
 
 vless://031fe63c-f7da-40b7-960d-1101df6eda60@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#POORIA
 
@@ -96,6 +96,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edge
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#POORIA
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#POORIA%20%F0%9F%87%B3%F0%9F%87%B1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#POORIA
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUFJpMTF6b2lsM3hEU1lJTkhtbHh0@81.19.141.45:443#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#POORIA
@@ -113,8 +117,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#P
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#POORIA%20%F0%9F%87%B1%F0%9F%87%BB
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@166.88.130.112:808#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@212.192.214.159:800#POORIA
 
@@ -169,8 +171,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRDhFOEE1enh5TG5YakV5aEhYekZU@94.159.96.245:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#POORIA%20%F0%9F%87%AB%F0%9F%87%AE
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#POORIA%20%F0%9F%87%B5%F0%9F%87%B1
 
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#POORIA
 
@@ -256,15 +256,11 @@ trojan://telegram-id-privatevpns@35.181.130.3:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@63.176.70.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
-hysteria2://04a24f06-17fa-464b-a799-90600783499f@hg1.xiaohuolongjc.top:37771?sni=hg1.xiaohuolongjc.top&insecure=1#POORIA
-
 hysteria2://12cc60a0-03e5-4df5-b2d0-90360d7e06ba@rb1.xiaohuolongjc.top:37771?sni=rb1.xiaohuolongjc.top&insecure=0#POORIA
 
 hysteria2://38f6467e-c4bc-4747-a210-dba093454541@tw.foldjc.top:37013?sni=tw.foldjc.top&insecure=1#POORIA
 
 hysteria2://589278e2-609f-4b26-b95c-e0924cc96a16@xjp1.xiaohuolongjc.top:37771?sni=xjp1.xiaohuolongjc.top&insecure=0#POORIA
-
-hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?sni=www.bing.com&insecure=1#POORIA
 
 hysteria2://79dc600a-b63b-4406-bd79-f5f7fb0c0e52@gytr.aifjj.asia:43453?sni=gytr.aifjj.asia&insecure=1#POORIA
 
@@ -314,8 +310,6 @@ hysteria2://b671e3e8-a271-4a36-b746-573d7c00e72c@tw2.jjzcloud.top:57338?sni=tw2.
 
 hysteria2://c6cc43a9-20a4-43c3-aa26-758cd31161c7@xg1.xiaohuolongjc.top:37771?sni=xg1.xiaohuolongjc.top&insecure=1#POORIA
 
-hysteria2://cb223828-57af-4aa0-be36-79e0439a1d62@wkl.jjzcloud.top:57338?sni=wkl.jjzcloud.top&insecure=1#POORIA
-
 hysteria2://cdc48fdf-728c-4b46-9078-f9b755ba8e3c@dg.foldjc.top:37017?sni=dg.foldjc.top&insecure=1#POORIA
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#POORIA
@@ -325,8 +319,6 @@ hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#POORI
 hysteria2://e0cc849a-3a46-4358-96ef-f7700984f7a7@hg1.xiaohuolongjc.top:37771?sni=hg1.xiaohuolongjc.top&insecure=1#POORIA
 
 hysteria2://e1749181-1f7a-4855-9b63-0980677c37f7@h23.cpddx.club:8443?sni=h23.cpddx.club&insecure=0#POORIA
-
-vmess://eyJ2IjoiMiIsImFkZCI6IjUxLjY4LjE5MS4yMzMiLCJwb3J0IjoiODAiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjkxLjk5LjE4NS4yMTYiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
@@ -408,5 +400,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTU2LjIzOC4yNTEuNTIiLCJwb3J0Ijoi
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTU3LjkwLjI0NS4xODciLCJwb3J0IjoiODg4MCIsImlkIjoiMGIxMzljMWItNDQxZC00MzdkLTk2NjEtYzA3MjdkM2YzYzkxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
 
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTYxLjI0OC4zMC4zIiwicG9ydCI6IjIwMDg2IiwiaWQiOiIxMDA2YTkyOC0yMDIxLTRhM2ItYmViNS1kNTg1M2M2MjgxYzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0IjoiODAiLCJpZCI6IjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0
 
