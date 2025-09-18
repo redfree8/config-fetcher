@@ -18,10 +18,6 @@ vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security
 
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=%2Fhqqprlws&security=tls&encryption=none&type=ws#POORIA
 
-vless://031fe63c-f7da-40b7-960d-1101df6eda60@mstr.fastly80.hosting-ip.com:80?encryption=none&security=none&type=ws&host=Gn8656.io&path=%2Fadmin#POORIA
-
-vless://031fe63c-f7da-40b7-960d-1101df6eda60@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=&encryption=none&host=Gn8656.io&type=ws#POORIA
-
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&security=tls&encryption=none&type=ws#POORIA
 
 vless://044bf7b6-67c3-40b0-bf21-d9dd02790264@hdfyrplc1.freeairlians.com:2083?encryption=none&security=reality&sni=hdfyrplc1.freeairlians.com&fp=chrome&pbk=AVHOkHx9tzD5YCnrDQVtE9XAt7_I-VPskA2M0W0eP1k&type=tcp&headerType=none#POORIA
@@ -87,6 +83,10 @@ vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvo
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@104.21.58.22:443?encryption=none&security=tls&sni=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026cd.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
 
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@172.67.198.112:443?encryption=none&security=tls&sni=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026cd.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
+
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@95.179.160.22:443?encryption=none&security=tls&sni=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
+
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?encryption=none&security=tls&sni=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&host=net2026.zanddynastyofpersia.org&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#POORIA%20%F0%9F%87%B8%F0%9F%87%AA
 
@@ -286,8 +286,6 @@ hysteria2://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@ru.1mao.me:39901?sni=ru.1mao.me
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:53432?sni=real.getafreenode.sbs&insecure=0#POORIA
 
-hysteria2://QWMs8htepu4efwwWrzM2nrRMT@80.75.218.223:64381?sni=bing.com&insecure=1#POORIA
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#POORIA
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#POORIA
@@ -319,6 +317,8 @@ hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#POORI
 hysteria2://e0cc849a-3a46-4358-96ef-f7700984f7a7@hg1.xiaohuolongjc.top:37771?sni=hg1.xiaohuolongjc.top&insecure=1#POORIA
 
 hysteria2://e1749181-1f7a-4855-9b63-0980677c37f7@h23.cpddx.club:8443?sni=h23.cpddx.club&insecure=0#POORIA
+
+vmess://eyJ2IjoiMiIsImFkZCI6IjUxLjY4LjE5MS4yMzMiLCJwb3J0IjoiODAiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjkxLjk5LjE4NS4yMTYiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
@@ -401,6 +401,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTYxLjI0OC4zMC4zIiwicG9ydCI6IjIw
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0IjoiODAiLCJpZCI6IjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0IjoiODAiLCJpZCI6IjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjE3Mi4xMTEuMTQ2LjY0IiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ
-
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTcyLjIzMy4xNzEuMjI0IiwicG9ydCI6IjE2NDE2IiwiaWQiOiI4YzFiOWJlYS1jYjUxLTQzYmItYTY1Yy0wYWYzMWJiYmYxNDUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ
 
