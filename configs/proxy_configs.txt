@@ -16,6 +16,8 @@ vless://032dae6d-6f5f-4fba-ba18-ccdc43ee8e19@creativecommons.org:443?encryption=
 
 vless://032dae6d-6f5f-4fba-ba18-ccdc43ee8e19@creativecommons.org:443?encryption=none&security=tls&sni=nigan.pages.dev&fp=randomized&type=ws&host=nigan.pages.dev&path=%2Fsocks5%3A%2F%2F51.210.111.216%3A33123%3F---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---#POORIA
 
+vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&security=tls&encryption=none&type=ws#POORIA
+
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@209.126.84.189:443?security=tls&encryption=none&sni=v2ray.codefyinc.com&fp=chrome&type=ws&host=v2ray.codefyinc.com&path=%2fvlessws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://044bf7b6-67c3-40b0-bf21-d9dd02790264@104.238.167.168:2083?security=reality&encryption=none&pbk=AVHOkHx9tzD5YCnrDQVtE9XAt7_I-VPskA2M0W0eP1k&headerType=none&fp=chrome&type=tcp&sni=hdfyrplc1.freeairlians.com#POORIA
@@ -85,8 +87,6 @@ vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?encryption=none&sec
 vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&fp=chrome&type=ws&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=%2F%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%40cassiusvpn-%3Fed%3D2048#POORIA
 
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?encryption=none&security=tls&sni=ed19-dc7.pages.dev&fp=chrome&type=ws&host=ed19-dc7.pages.dev&path=%2F#POORIA
-
-vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?encryption=none&security=tls&sni=ed19-dc7.pages.dev&fp=chrome&type=ws&host=ed19-dc7.pages.dev&path=%2F#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#POORIA%20%F0%9F%87%AE%F0%9F%87%B7
 
@@ -168,9 +168,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1QDQ1Ljg3LjE3NS4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#POORIA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#POORIA%20%F0%9F%87%BA%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#POORIA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#POORIA%20%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#POORIA%20%F0%9F%87%BA%F0%9F%87%A6
 
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&sni=eats-rigor-judge.stark-industries.solutions&allowInsecure=1&fp=chrome&type=tcp#POORIA
 
@@ -340,8 +340,6 @@ hysteria2://c9ef5e9f-5643-4ee8-b561-f099a2246a1b@hk.xilucloud.top:14558?sni=hk.x
 
 hysteria2://c9ef5e9f-5643-4ee8-b561-f099a2246a1b@us.xilucloud.top:14558?sni=us.xilucloud.top&insecure=0#POORIA
 
-vmess://eyJ2IjoiMiIsImFkZCI6IjUxLjY4LjE5MS4yMzMiLCJwb3J0IjoiODAiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-
 vmess://eyJ2IjoiMiIsImFkZCI6IjkxLjk5LjE4NS4yMTYiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6InhjMTI1LTEubWVpemliYTU1NjYuY29tIiwicG9ydCI6NDQzLCJpZCI6IjZiOTVkMzQwLTMwYTUtNDdiZC1hYzUzLTQ5NTg0ZTVkNGRkZiIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoieGMxMjUtMS5tZWl6aWJhNTU2Ni5jb20iLCJwYXRoIjoiLzZiOTVkMzQwIiwiaG9zdCI6InhjMTI1LTEubWVpemliYTU1NjYuY29tIn0
@@ -391,6 +389,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiY2YuZm92aS50ayIsInBvcnQiOiI0NDMi
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiY3BhbmVsLmVyYWRlMzIuaXIiLCJwb3J0IjoiMTAwIiwiaWQiOiIyMGY0MDc1MS0yYzU1LTQzMzgtYjA0Zi1mOTQwOWM2ZGY1YzMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiJ1cGxvYWRib3kuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiY3BhbmVsLmVyYWRlMzMuaXIiLCJwb3J0IjoiMTAwIiwiaWQiOiIyMGY0MDc1MS0yYzU1LTQzMzgtYjA0Zi1mOTQwOWM2ZGY1YzMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InVwbG9hZGJveS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiYkJiYmJiYkJiLjIyMjc2OS5YWVoiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmU2NTU3N2UtOGZkYi00YmIxLWE0OTUtOTZmMzEyMjA5OWE3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9mNnRhT01jT1NaYjlUUFIiLCJob3N0IjoiYmJiYmJiYmJiLjIyMjc2OS54eXoiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoia2FtcG9uZy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImthbXBvbmcub3JnIiwiYWxwbiI6IiIsImZwIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 
