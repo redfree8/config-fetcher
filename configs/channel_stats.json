@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-09-25T00:44:20.387406+00:00",
+  "timestamp": "2025-09-25T02:57:14.869901+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 147066,
-        "valid_configs": 381,
-        "unique_configs": 381,
-        "avg_response_time": 0.3,
+        "total_configs": 165236,
+        "valid_configs": 404,
+        "unique_configs": 404,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.61,
-        "last_success": "2025-09-25T00:43:39.104918+00:00",
+        "overall_score": 74.96,
+        "last_success": "2025-09-25T02:56:24.568218+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 6,
+          "hysteria2://": 10,
           "vless://": 114,
-          "vmess://": 100,
+          "vmess://": 114,
           "ss://": 114,
-          "trojan://": 47,
+          "trojan://": 52,
           "tuic://": 0
         }
       }
@@ -30,12 +30,12 @@
       "metrics": {
         "total_configs": 155236,
         "valid_configs": 340,
-        "unique_configs": 281,
-        "avg_response_time": 0.16,
+        "unique_configs": 259,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.47,
-        "last_success": "2025-09-25T00:44:06.453363+00:00",
+        "overall_score": 69.09,
+        "last_success": "2025-09-25T02:56:51.611097+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 9,
@@ -51,21 +51,21 @@
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt#Freedom-pooria",
       "enabled": true,
       "metrics": {
-        "total_configs": 10000,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.17,
+        "total_configs": 40000,
+        "valid_configs": 200,
+        "unique_configs": 200,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.76,
-        "last_success": "2025-09-25T00:44:09.152710+00:00",
+        "overall_score": 75.08,
+        "last_success": "2025-09-25T02:57:04.410916+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 2,
+          "vmess://": 200,
           "ss://": 0,
-          "trojan://": 5,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
@@ -77,11 +77,11 @@
         "total_configs": 36100,
         "valid_configs": 190,
         "unique_configs": 190,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.9,
-        "last_success": "2025-09-25T00:44:15.227772+00:00",
+        "overall_score": 75.07,
+        "last_success": "2025-09-25T02:57:10.419912+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 37,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 30625,
-        "valid_configs": 128,
-        "unique_configs": 128,
-        "avg_response_time": 1.21,
+        "valid_configs": 123,
+        "unique_configs": 123,
+        "avg_response_time": 0.7,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.28,
-        "last_success": "2025-09-25T00:44:20.385484+00:00",
+        "overall_score": 74.05,
+        "last_success": "2025-09-25T02:57:14.867983+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 86,
-          "vmess://": 25,
-          "ss://": 15,
-          "trojan://": 2,
+          "vless://": 82,
+          "vmess://": 18,
+          "ss://": 12,
+          "trojan://": 11,
           "tuic://": 0
         }
       }
