@@ -192,6 +192,8 @@ trojan://253bc477d4e43c209f2d427272968280@58.152.53.94:443?allowInsecure=1&sni=w
 
 trojan://253bc477d4e43c209f2d427272968280@58.152.53.94:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#POORIA%20%F0%9F%87%AD%F0%9F%87%B0
 
+trojan://Aimer@188.164.159.22:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#POORIA
+
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#POORIA
 
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#POORIA
@@ -253,8 +255,6 @@ trojan://telegram-id-privatevpns@3.123.135.131:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.66.22.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
 trojan://telegram-id-privatevpns@3.70.102.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
-
-trojan://telegram-id-privatevpns@3.74.210.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
 hysteria2://179ef5a2-bad2-4b60-9e14-8600a3cd2d9e@wmg2.wanlidag.top:5555?sni=wmg2.wanlidag.top&insecure=0#POORIA
 
@@ -340,6 +340,8 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&path=%2f&allow_insecure=1#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
+vmess://eyJ2IjoiMiIsImFkZCI6IjUxLjY4LjE5MS4yMzMiLCJwb3J0IjoiODAiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+
 vmess://eyJ2IjoiMiIsImFkZCI6IjkxLjk5LjE4NS4yMTYiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjQzLjI0Ny4xMzQuMjEzIiwicG9ydCI6IjE4MzY2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNjYzM3YjFiLTRlZjAtNDMwYy1iMWUxLTIwYmY5NmZjZmY4YyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3prc3VhcGd4IiwiaG9zdCI6ImJhaWR1LmNvbSIsInRscyI6IiJ9
@@ -413,8 +415,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiNTcuMTI5LjI1LjIyIiwicG9ydCI6NDQz
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiNTcuMTI5LjI4LjY5IiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaG9zdCI6ImJhcmFkaWhhLmNvbSIsInBhdGgiOiIvbGlua3Z3cyJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiNjIuNjAuMTg3LjI4IiwicG9ydCI6IjIwMDg2IiwiaWQiOiI1NzBiNGNmYy04MGQ1LTQyNzctOGM5Ny04NDQ0YmEwNjg5YjkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiNjIuNjAuMTg3LjI4IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ
-
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiNjIuNjAuMTg3LjI4IiwicG9ydCI6IjIwMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjU3MGI0Y2ZjLTgwZDUtNDI3Ny04Yzk3LTg0NDRiYTA2ODliOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiNjQuODEuMjQuMTE1IiwicG9ydCI6IjIwNTIxIiwiaWQiOiJjNzBmM2ZkZS1kNzkyLTRmMWMtODU1OS1jMjMwOGY5N2ZmYmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiNjQuODEuMjQuMTE1IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ
 
