@@ -66,6 +66,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.9.84:22224?type=ws&security=tl
 
 vless://06fbbb8d-43b5-4ede-a0fe-417df04824cc@deu163.unboundworld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#POORIA
 
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#POORIA
+
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=%2Flmhdjfws&security=tls&encryption=none&type=ws#POORIA
 
 vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?type=tcp&encryption=none&security=reality&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#POORIA
@@ -73,6 +75,10 @@ vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?type=tcp&encrypti
 vless://0cd02a20-80c8-43c4-ae2f-b72488549ef9@51.89.137.87:40716?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#POORIA
 
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smart.hegzaconf1.com&alpn=h3%2Ch2&fp=chrome&type=ws&path=%2F#POORIA
+
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&flow=xtls-rprx-vision&encryption=none#POORIA
+
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026cd.zanddynastyofpersia.org:443?encryption=none&security=tls&sni=net2026cd.zanddynastyofpersia.org&type=ws&path=%2FeJsVXFVZ6iavNx1EFxOyH861WH#POORIA
 
 vless://1%65d%65815%65-b941-4232-9%6143-57821d473%65c4@141.227.164.187:57923?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#POORIA
 
@@ -82,31 +88,19 @@ vless://10377e13-ba4e-4b86-ad26-08ac573bfa29@57.130.29.231:46393?mode=gun&securi
 
 vless://10377e13-ba4e-4b86-ad26-08ac573bfa29@57.130.29.231:46393?security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&path=%2f#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
 
-vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?encryption=none&security=reality&sni=analytics.google.com&fp=random&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&sid=eab26c4a32&type=tcp&headerType=none#POORIA
-
-vless://12345678-1234-1234-1234-123456789123@102.132.188.52:2096?encryption=none&security=tls&sni=saas.git.cloudns.org&fp=chrome&type=ws&host=saas.git.cloudns.org&path=%2Fsnippets#POORIA
-
-vless://12345678-1234-1234-1234-123456789123@103.169.142.52:2096?encryption=none&security=tls&sni=saas.git.cloudns.org&fp=chrome&type=ws&host=saas.git.cloudns.org&path=%2Fsnippets#POORIA
-
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0%3D@adas-polo-ba-mahi.kotlet.org:2053#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ie01.giamping.com:8080#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@us33.giamping.com:8080#POORIA
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#POORIA
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#POORIA
 
@@ -136,11 +130,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#POORIA%20%F0%9F%87%B7%F0%9F%87%BA
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#POORIA
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.60.192.176:990#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@95.173.218.203:990#POORIA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#POORIA
 
@@ -159,6 +157,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080#POORIA%20%F0%9F%87%B3%F0%9F%87%B1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#POORIA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#POORIA%20%F0%9F%87%B3%F0%9F%87%B1
 
@@ -268,7 +268,7 @@ trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?security=tls&sni=www
 
 trojan://253bc477d4e43c209f2d427272968280@221.128.195.220:4400?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
-trojan://253bc477d4e43c209f2d427272968280@23.227.194.19:443?allowInsecure=0&sni=www.nintendogames.net#POORIA
+trojan://253bc477d4e43c209f2d427272968280@221.128.195.221:4419?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -340,8 +340,6 @@ trojan://telegram-id-privatevpns@3.66.22.138:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@3.70.102.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
-vmess://eyJ2IjoiMiIsImFkZCI6IjUxLjY4LjE5MS4yMzMiLCJwb3J0IjoiODAiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-
 vmess://eyJ2IjoiMiIsImFkZCI6IjkxLjk5LjE4NS4yMTYiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjQzLjI0Ny4xMzQuMjEzIiwicG9ydCI6IjE4MzY2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNjYzM3YjFiLTRlZjAtNDMwYy1iMWUxLTIwYmY5NmZjZmY4YyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3prc3VhcGd4IiwiaG9zdCI6ImJhaWR1LmNvbSIsInRscyI6IiJ9
@@ -359,8 +357,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTkyLjMuMjMzLjIxNiIsInBvcnQiOiIx
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMjA1LjE4NS4xMTYuMjAiLCJwb3J0IjoiODA4MCIsImlkIjoiZmYxMzAyMTAtNDYzNi01Y2FmLTgyNTktMDkwNThjNTViYWU4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMjEwLjMuMTU5LjE1MCIsInBvcnQiOiI0MjcxNyIsImlkIjoiYjU4MDNkNzQtYzZmOC00MTVmLWUxZTYtZWJjOWU0MjY5Yjg2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjIxMC4zLjE1OS4xNTAiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMjEyLjE5Mi4xNS4xNzYiLCJwb3J0IjoiMjcxMjMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzQ2YzAxYTAtMzhjYy00ZGNlLWJkZGEtYzhhNmE3N2QwYWVmIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMjMuOTUuMTMzLjQiLCJwb3J0IjoiMzM2MDQiLCJpZCI6Ijc3YjAzNTA3LWM2YmYtNDQ4ZS04YjFhLWQxMmQzOThmZTUwOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
 
@@ -423,4 +419,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiOC4yMTcuMjA5LjgyIiwicG9ydCI6IjM2
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiOC4yMTcuMzQuMTIiLCJwb3J0IjoiMjM0NzciLCJpZCI6IjgwOTc1ZDQ3LTdmNmEtNDM2ZC05MDg1LTRkYWRmNDU0NmUwMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiOC4yMTkuMjE4LjEzOCIsInBvcnQiOiIyMjE3NyIsImlkIjoiNzVjNGZmMTQtN2QyOS00M2VlLWJhYjEtNTc3Y2E5YTgwNGI1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0
+
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiOC4yMTkuMjE4LjEzOCIsInBvcnQiOiIyNjc4IiwiaWQiOiJkNGE0NGM2Zi1hNzAxLTQwMDQtODllOS0zMjFhZmI0MTAzNWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ
+
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiZmFwZW5nLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmYXBlbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmYXBlbmcub3JnIiwiYWxwbiI6IiJ9
 
