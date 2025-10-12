@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-12T06:13:33.263540+00:00",
+  "timestamp": "2025-10-12T08:14:53.716128+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 170150,
         "valid_configs": 410,
         "unique_configs": 410,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.8,
-        "last_success": "2025-10-12T06:13:12.598862+00:00",
+        "overall_score": 75.0,
+        "last_success": "2025-10-12T08:11:48.279680+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 24,
@@ -31,11 +31,11 @@
         "total_configs": 11664,
         "valid_configs": 99,
         "unique_configs": 80,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.4,
-        "last_success": "2025-10-12T06:13:15.147773+00:00",
+        "overall_score": 70.39,
+        "last_success": "2025-10-12T08:11:50.841720+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 4,
@@ -49,23 +49,23 @@
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt#Freedom-pooria",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 10000,
-        "valid_configs": 1,
-        "unique_configs": 1,
-        "avg_response_time": 0.04,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2025-10-12T06:13:17.794908+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 1,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
@@ -77,11 +77,11 @@
         "total_configs": 60516,
         "valid_configs": 242,
         "unique_configs": 242,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.88,
-        "last_success": "2025-10-12T06:13:28.311563+00:00",
+        "overall_score": 75.09,
+        "last_success": "2025-10-12T08:14:48.291097+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 22,
@@ -98,19 +98,19 @@
       "enabled": true,
       "metrics": {
         "total_configs": 30625,
-        "valid_configs": 134,
-        "unique_configs": 134,
-        "avg_response_time": 1.02,
+        "valid_configs": 133,
+        "unique_configs": 133,
+        "avg_response_time": 1.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.58,
-        "last_success": "2025-10-12T06:13:33.261753+00:00",
+        "overall_score": 73.01,
+        "last_success": "2025-10-12T08:14:53.714323+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 85,
-          "vmess://": 29,
-          "ss://": 16,
+          "vmess://": 30,
+          "ss://": 14,
           "trojan://": 4,
           "tuic://": 0
         }
