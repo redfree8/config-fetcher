@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-22T04:16:31.245897+00:00",
+  "timestamp": "2025-10-22T06:19:18.314563+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 173466,
         "valid_configs": 414,
         "unique_configs": 414,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.85,
-        "last_success": "2025-10-22T04:13:13.432246+00:00",
+        "overall_score": 74.87,
+        "last_success": "2025-10-22T06:16:00.301279+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 24,
@@ -31,11 +31,11 @@
         "total_configs": 42436,
         "valid_configs": 189,
         "unique_configs": 141,
-        "avg_response_time": 0.02,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 68.73,
-        "last_success": "2025-10-22T04:13:19.534159+00:00",
+        "overall_score": 68.65,
+        "last_success": "2025-10-22T06:16:06.521948+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -77,11 +77,11 @@
         "total_configs": 85264,
         "valid_configs": 289,
         "unique_configs": 289,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.97,
-        "last_success": "2025-10-22T04:16:26.497604+00:00",
+        "overall_score": 75.05,
+        "last_success": "2025-10-22T06:19:13.413729+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 14,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 30625,
-        "valid_configs": 142,
-        "unique_configs": 142,
-        "avg_response_time": 1.02,
+        "valid_configs": 139,
+        "unique_configs": 139,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.58,
-        "last_success": "2025-10-22T04:16:31.243751+00:00",
+        "overall_score": 74.16,
+        "last_success": "2025-10-22T06:19:18.312738+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 74,
-          "vmess://": 33,
-          "ss://": 27,
-          "trojan://": 8,
+          "vless://": 77,
+          "vmess://": 34,
+          "ss://": 24,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
