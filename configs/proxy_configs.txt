@@ -208,6 +208,10 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@202.181.103.246:5041?security=tls&sni=
 
 trojan://c53647f3153f784b3c695ffbe5fb43c0@202.181.103.246:5041?sni=www.nintendogames.net&path=%2f#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?allowInsecure=0&sni=www.nintendogames.net#POORIA
+
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=www.nintendogames.net#POORIA
+
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:4452?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?allowInsecure=0&sni=www.nintendogames.net#POORIA
@@ -251,10 +255,6 @@ trojan://telegram-id-privatevpns@13.36.60.157:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.39.253.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
 trojan://telegram-id-privatevpns@15.188.131.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
-
-trojan://telegram-id-privatevpns@15.188.172.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
-
-trojan://telegram-id-privatevpns@15.188.198.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#POORIA
 
@@ -331,6 +331,8 @@ hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?security=tls&
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?sni=bing.com&insecure=1#POORIA
 
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#POORIA%20%E2%9C%85
+
+vmess://eyJ2IjoiMiIsImFkZCI6IjUxLjY4LjE5MS4yMzMiLCJwb3J0IjoiODAiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjkxLjk5LjE4NS4yMTYiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJQT09SSUEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
@@ -413,6 +415,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiOTEuMTM0LjguMTAyIiwicG9ydCI6IjQ0
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiY2YuZm92aS50ayIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYmY2NzQzN2UtNmM5MC00NWNhLWFiYzItYzcyNDBhNWNlMmFhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9laXNhc3FhIiwiaG9zdCI6ImZveHBvbC5mb3ZpLnRrIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiY3BwMDA3LTIuZmFjYWkyMDI1MDkwOS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiJlMTM0YjVlOS00YjE2LTRkNTAtYjNkOS1lYWVmNjUyNjYwYjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjcHAwMDctMi5mYWNhaTIwMjUwOTA5LmNvbSIsInBhdGgiOiIvZTEzNGI1ZTkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjcHAwMDctMi5mYWNhaTIwMjUwOTA5LmNvbSIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiZ2dnZ2dnZ2dnZ2dnZ2cuMjIyNzY5Lnh5eiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIyZTY1NTc3ZS04ZmRiLTRiYjEtYTQ5NS05NmYzMTIyMDk5YTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Y2dGFPTWNPU1piOVRQUiIsImhvc3QiOiJnZ2dnZ2dnZ2dnZ2dnZy4yMjI3NjkueHl6IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 
