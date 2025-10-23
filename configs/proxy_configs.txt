@@ -44,8 +44,6 @@ vless://06425ceb-50c1-4f97-8fa8-20a3d914b8e3@104.21.70.241:443?path=%2FFree-VPN-
 
 vless://07ae4d3d-49e1-4a84-8e34-54d72fd38c17@172.67.168.193:443?path=%2FFree-VPN-CF-Geo-Project%2FAM1&security=tls&encryption=none&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#POORIA
 
-vless://086c655d-0c12-47dd-9d5a-2670089201ee@172.67.160.44:443?encryption=none&security=tls&sni=cb93136c-7ed8-136d-45b5-5254c891e290.huangshang.site&type=ws&host=cb93136c-7ed8-136d-45b5-5254c891e290.huangshang.site&path=%2F0SCvfqSaeeB74kgXZ#POORIA
-
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#POORIA
 
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#POORIA
@@ -88,7 +86,7 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@31.43.179.249:2053?path=%2F&securit
 
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@31.43.179.43:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#POORIA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#POORIA
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@31.43.179.5:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172#POORIA
 
@@ -172,6 +170,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.180:990#POORIA
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.159.250.190:990#POORIA
+
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#POORIA
 
 trojan://1sbtkLK7F3@195.22.157.104:37085?security=tls&sni=joon.arshiacomplus.dpdns.org&alpn=http%2f1.1&fp=chrome&type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=%2fmoshali2plus#POORIA%20%F0%9F%87%AC%F0%9F%87%A7
@@ -211,6 +211,8 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@202.181.103.246:5041?sni=www.nintendog
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2381?allowInsecure=0&sni=www.nintendogames.net#POORIA
+
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:4452?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
@@ -253,8 +255,6 @@ trojan://telegram-id-directvpn@63.180.173.173:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.36.60.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
 trojan://telegram-id-privatevpns@13.39.253.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
-
-trojan://telegram-id-privatevpns@15.188.131.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA
 
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#POORIA
 
