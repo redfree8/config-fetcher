@@ -6,6 +6,8 @@
 
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=c2fa#POORIA%20%F0%9F%87%AB%F0%9F%87%AE
 
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#POORIA
+
 vless://045eb821-bdae-43c5-8945-9cb181e65dcb@77.110.109.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ad.mail.ru&fp=chrome&pbk=MIVrDwJBfit7cvJlTyt4z8So78Sidkb0cZFy5BW2NRE&sid=96&type=tcp&headerType=none#POORIA
 
 vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@188.114.97.6:443?encryption=none&security=tls&sni=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&host=asl-uwiisjjsjdjd-7665.pages.dev&path=%2Fss3v1oqwxulalsbo%3Fed%3D2560#POORIA
@@ -15,6 +17,8 @@ vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443
 vless://04979a1c-300b-4eb6-9f85-235730566d54@212.95.41.20:800?encryption=none&security=reality&sni=zhaket.com&fp=chrome&pbk=8sbYQLutiRgWxqzbPmYI0hIT2Gf5oH54C9F7H2DWKQ4&sid=f7fea54424&type=tcp&headerType=none#POORIA
 
 vless://086c655d-0c12-47dd-9d5a-2670089201ee@172.67.160.44:443?encryption=none&security=tls&sni=cb93136c-7ed8-136d-45b5-5254c891e290.huangshang.site&type=ws&host=cb93136c-7ed8-136d-45b5-5254c891e290.huangshang.site&path=%2F0SCvfqSaeeB74kgXZ#POORIA
+
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#POORIA
 
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.26:2053?encryption=none&security=tls&sni=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&host=iYjnx-71195.zephorium.uk&path=%2F#POORIA
 
@@ -83,10 +87,6 @@ vless://12345678-1234-1234-1234-123456789123@185.156.19.61:2096?encryption=none&
 vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&type=ws&host=vless.hubp.de&path=%2Fsnippets#POORIA
 
 vless://12345678-1234-1234-1234-123456789123@190.93.245.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&type=ws&host=vless.hubp.de&path=%2Fsnippets#POORIA
-
-vless://12345678-1234-1234-1234-123456789123@192.65.217.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&type=ws&host=vless.hubp.de&path=%2Fsnippets#POORIA
-
-vless://12345678-1234-1234-1234-123456789123@193.227.99.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&type=ws&host=vless.hubp.de&path=%2Fsnippets#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#POORIA
 
@@ -244,6 +244,10 @@ trojan://telegram-id-directvpn@15.188.245.56:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@15.236.136.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
 
+trojan://telegram-id-directvpn@15.236.140.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
+
+trojan://telegram-id-directvpn@15.236.165.170:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
+
 trojan://telegram-id-directvpn@15.236.72.198:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
 
 trojan://telegram-id-directvpn@3.120.0.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
@@ -251,10 +255,6 @@ trojan://telegram-id-directvpn@3.120.0.227:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@3.65.170.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
 trojan://telegram-id-directvpn@3.69.107.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://telegram-id-directvpn@35.181.70.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
-
-trojan://telegram-id-directvpn@52.29.25.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
 hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854?insecure=1&sni=www.bing.com#POORIA%20%F0%9F%87%B9%F0%9F%87%BC
 
@@ -418,7 +418,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiamFtZWtrLm9yZyIsInBvcnQiOiI0NDMi
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoibWFzamlkZS5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJtYXNqaWRlLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoibWFzamlkZS5vcmciLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ
 
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoibm9kZTIubWFuZ2dpbmcuY29tIiwicG9ydCI6IjEwMDU1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjM1M2Q0YzEzLWE3NTYtNDZkZC1iYTZmLTNkZmVjZmViMzdmYyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJub2RlMi5tYW5nZ2luZy5jb20iLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoibm9kZTIubWFuZ2dpbmcuY29tIiwicG9ydCI6IjEwMDU1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjM1M2Q0YzEzLWE3NTYtNDZkZC1iYTZmLTNkZmVjZmViMzdmYyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJkaW5nZGluZy1kb2MuY29tIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoic2FsYW1kYXNoLmJlZG9uZW1hcnouc2l0ZSIsInBvcnQiOiI0NDQiLCJ0eXBlIjoibm9uZSIsImlkIjoiODlkZThjMTctOWI0MS00NjMyLTlhMGItNDQwZjg1MDU0OGZkIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InNhbGFtZGFzaC5iZWRvbmVtYXJ6LnNpdGUiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
