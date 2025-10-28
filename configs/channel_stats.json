@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-28T16:16:21.093995+00:00",
+  "timestamp": "2025-10-28T18:18:55.698073+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.8,
-        "last_success": "2025-10-28T16:13:05.225837+00:00",
+        "last_success": "2025-10-28T18:15:39.488665+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 36,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 73.89,
-        "last_success": "2025-10-28T16:13:09.376031+00:00",
+        "last_success": "2025-10-28T18:15:43.625620+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -77,11 +77,11 @@
         "total_configs": 85264,
         "valid_configs": 289,
         "unique_configs": 289,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.9,
-        "last_success": "2025-10-28T16:16:16.693723+00:00",
+        "overall_score": 74.91,
+        "last_success": "2025-10-28T18:18:50.990571+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 14,
@@ -98,19 +98,19 @@
       "enabled": true,
       "metrics": {
         "total_configs": 30625,
-        "valid_configs": 136,
-        "unique_configs": 136,
-        "avg_response_time": 0.94,
+        "valid_configs": 133,
+        "unique_configs": 133,
+        "avg_response_time": 1.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.7,
-        "last_success": "2025-10-28T16:16:21.092116+00:00",
+        "overall_score": 73.18,
+        "last_success": "2025-10-28T18:18:55.696300+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 80,
-          "vmess://": 20,
-          "ss://": 32,
+          "vless://": 72,
+          "vmess://": 21,
+          "ss://": 36,
           "trojan://": 4,
           "tuic://": 0
         }
