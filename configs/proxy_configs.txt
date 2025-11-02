@@ -34,6 +34,8 @@ vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&type=ws&sni=DfVrMvWc2.SoLeRiOs.nEt#POORIA
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.62.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#POORIA
+
 vless://078534af-d6e0-453a-80e0-c61de7e98b81@socialup.live:443?security=reality&encryption=none&pbk=JxP4rmXkxYRzWvGW6cBI1FbMBdCk1D8183Hvzn-63mo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=99a88f5b#POORIA
 
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#POORIA
@@ -51,8 +53,6 @@ vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?encryption=none&
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&fp=chrome&type=ws&host=smrtwtsm.confappha.com&path=%2F#POORIA
 
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#POORIA
-
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&amp;encryption=none&amp;pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=i2pd.website&amp;sid=55e6af1a35e64a98#POORIA
 
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#POORIA
 
@@ -188,8 +188,6 @@ trojan://auto@dcf741e8.epeius-2gy.pages.dev:443?security=tls&encryption=none&sni
 
 trojan://auto@dcf741e8.epeius-2gy.pages.dev:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=/?ed=2560#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;sni=www.nintendogames.net&amp;type=tcp#POORIA
-
 trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#POORIA%20%F0%9F%87%A8%F0%9F%87%B3
 
 trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&type=tcp&path=/#POORIA%20%F0%9F%87%A8%F0%9F%87%B3
@@ -255,6 +253,8 @@ trojan://telegram-id-privatevpns@18.153.165.93:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.158.204.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
 trojan://telegram-id-privatevpns@18.199.216.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
+
+trojan://telegram-id-privatevpns@3.72.188.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk:1743?sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk&insecure=0#POORIA
 
