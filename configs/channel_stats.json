@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-04T16:46:29.369382+00:00",
+  "timestamp": "2025-11-04T18:47:39.328883+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.89,
-        "last_success": "2025-11-04T16:17:01.381013+00:00",
+        "last_success": "2025-11-04T18:18:12.909044+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 24,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.5,
-        "last_success": "2025-11-04T16:17:09.965909+00:00",
+        "last_success": "2025-11-04T18:18:21.584591+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -77,11 +77,11 @@
         "total_configs": 141376,
         "valid_configs": 362,
         "unique_configs": 362,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.99,
-        "last_success": "2025-11-04T16:20:36.511557+00:00",
+        "overall_score": 75.05,
+        "last_success": "2025-11-04T18:21:48.085691+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 21,
@@ -98,18 +98,18 @@
       "enabled": true,
       "metrics": {
         "total_configs": 2360830,
-        "valid_configs": 428,
-        "unique_configs": 427,
-        "avg_response_time": 1.63,
+        "valid_configs": 429,
+        "unique_configs": 428,
+        "avg_response_time": 1.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.5,
-        "last_success": "2025-11-04T16:46:29.078419+00:00",
+        "overall_score": 73.19,
+        "last_success": "2025-11-04T18:47:39.024819+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 193,
           "vless://": 0,
-          "vmess://": 188,
+          "vmess://": 189,
           "ss://": 0,
           "trojan://": 47,
           "tuic://": 0
