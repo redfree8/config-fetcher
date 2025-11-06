@@ -92,8 +92,6 @@ hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-
 
 hysteria2://0720c874-35e8-11ef-aa88-f23c913c8d2b@1563bbb0-t53wg0-t8xyf4-1l0qa.us.hyhuawei.com:443?sni=1563bbb0-t53wg0-t8xyf4-1l0qa.us.hyhuawei.com&insecure=0&mport=30000-60000#POORIA
 
-hysteria2://0fc81038-0f9c-4a4f-980f-aa91c4a0afb4@banmabanmabanmabanmabanmabanma1.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma1.wanlidag.top#POORIA
-
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon#POORIA
 
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#POORIA
@@ -172,6 +170,8 @@ hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?insec
 
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&amp;insecure=1&amp;sni=hsdg.huasuan666.top#POORIA
 
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&insecure=1&sni=hsdg.huasuan666.top#POORIA
+
 trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.23:316?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://1sbtkLK7F3@195.22.157.104:37085?security=tls&sni=joon.arshiacomplus.dpdns.org&alpn=http/1.1&fp=chrome&type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=/moshali2plus#POORIA%20%F0%9F%87%AC%F0%9F%87%A7
@@ -216,7 +216,7 @@ trojan://BxceQaOe@36.151.192.242:194?security=tls&allowInsecure=1&type=tcp&heade
 
 trojan://BxceQaOe@36.151.192.242:4556?allowInsecure=1#POORIA
 
-trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1&sni=#POORIA
+trojan://BxceQaOe@58.152.46.98:443?allowInsecure=0#POORIA
 
 trojan://BxceQaOe@58.152.46.98:443?security=tls&allowInsecure=1&type=tcp&headerType=none#POORIA
 
@@ -225,8 +225,6 @@ trojan://BxceQaOe@58.152.46.98:443?security=tls&sni=58.152.46.98&allowInsecure=1
 trojan://BxceQaOe@58.152.46.98:443?security=tls&sni=58.152.46.98&fp=chrome&allowInsecure=1&type=tcp&headerType=none#POORIA
 
 trojan://BxceQaOe@58.152.46.98:443?security=tls&sni=58.152.46.98&type=tcp&headerType=none#POORIA
-
-trojan://BxceQaOe@58.152.53.3:443?allowInsecure=1&sni=#POORIA
 
 trojan://BxceQaOe@58.152.53.3:443?security=tls&type=tcp&headerType=none#POORIA
 
@@ -255,6 +253,8 @@ trojan://adbac894-90b9-4913-b77e-a715a8d4ebc8@oss-cn-shanghai.letssepub.com:2002
 trojan://auto@dcf741e8.epeius-2gy.pages.dev:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&path=/?ed=2560&Host=dcf741e8.epeius-2gy.pages.dev#POORIA
 
 trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?allowInsecure=0&sni=www.nintendogames.net#POORIA
+
+trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@46.183.219.202:57456?note=--Telegram--@NetifyVPN--#POORIA
 
@@ -388,6 +388,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6IjE1Mi43MC45Mi42OSIsInBvcnQiOiI4MCIsInR5cGUiOiJodHRwIiwiaWQiOiJiYjljMzk5My1hNGI5LTRkYWQtYWViOS1hYzg2MzcxYWU2OGIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0
 
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6IjE1Mi43MC45Mi42OSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJiYjljMzk5My1hNGI5LTRkYWQtYWViOS1hYzg2MzcxYWU2OGIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0Ijoid3d3Lm5pbnRlbmRvZ2FtZXMubmV0IiwidGxzIjoiIn0
+
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6IjE1Mi43MC45Mi42OSIsInBvcnQiOjgwLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MSIsInBvcnQiOiI0NDMiLCJpZCI6ImU3ZDcyYThkLTI2ZjItNGI1NC1iMzY2LTBjNDNlMGJjYmE3ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
@@ -421,6 +423,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6IjE4OC4xMTQuOTguMTgiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDI4NjZkMDEtZDc2ZC00YTA4LThiYWUtMDRmYjNjNTAyNTg4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6IjE4OC4xMTQuOTkuMTgiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDI4NjZkMDEtZDc2ZC00YTA4LThiYWUtMDRmYjNjNTAyNTg4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0
-
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGY1Mlx1ZDgzY1x1ZGY4MCIsImFkZCI6IjEwMi4xMzIuMTg4LjMiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTk1ZTM1YmEtZjg3NC00ZWIzLTk2MDAtNGRiZDZkMDk5ZjRlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0
 
