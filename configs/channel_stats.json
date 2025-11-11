@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-11-11T12:41:33.144724+00:00",
+  "timestamp": "2025-11-11T14:35:52.076002+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 637596,
-        "valid_configs": 100,
-        "unique_configs": 100,
-        "avg_response_time": 0.14,
+        "total_configs": 493500,
+        "valid_configs": 56,
+        "unique_configs": 56,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.79,
-        "last_success": "2025-11-11T12:23:21.680781+00:00",
+        "overall_score": 74.89,
+        "last_success": "2025-11-11T14:13:16.096329+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 18,
-          "vless://": 3,
-          "vmess://": 38,
-          "ss://": 19,
-          "trojan://": 22,
+          "hysteria2://": 2,
+          "vless://": 12,
+          "vmess://": 17,
+          "ss://": 0,
+          "trojan://": 25,
           "tuic://": 0
         }
       }
@@ -30,12 +30,12 @@
       "metrics": {
         "total_configs": 42436,
         "valid_configs": 189,
-        "unique_configs": 186,
-        "avg_response_time": 0.1,
+        "unique_configs": 189,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.56,
-        "last_success": "2025-11-11T12:23:28.629350+00:00",
+        "overall_score": 75.1,
+        "last_success": "2025-11-11T14:13:22.853447+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -77,11 +77,11 @@
         "total_configs": 109561,
         "valid_configs": 328,
         "unique_configs": 328,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.96,
-        "last_success": "2025-11-11T12:26:40.447747+00:00",
+        "overall_score": 74.92,
+        "last_success": "2025-11-11T14:16:32.956811+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 25,
@@ -97,21 +97,21 @@
       "url": "https://lively-dream-c48b.mehdipost675.workers.dev/?token=fedfed7b41b828f17cfb2371c8ee16df",
       "enabled": true,
       "metrics": {
-        "total_configs": 1624008,
-        "valid_configs": 301,
-        "unique_configs": 301,
-        "avg_response_time": 1.35,
+        "total_configs": 2003298,
+        "valid_configs": 319,
+        "unique_configs": 319,
+        "avg_response_time": 1.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.98,
-        "last_success": "2025-11-11T12:41:32.970408+00:00",
+        "overall_score": 73.26,
+        "last_success": "2025-11-11T14:35:51.800306+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 101,
           "vless://": 0,
-          "vmess://": 145,
+          "vmess://": 143,
           "ss://": 0,
-          "trojan://": 54,
+          "trojan://": 74,
           "tuic://": 1
         }
       }
