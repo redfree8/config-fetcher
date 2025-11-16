@@ -176,7 +176,7 @@ trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?path=%2FFree-V
 
 trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?path=/Free-VPN-CF-Geo-Project/141.94.222.214=2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
 
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?security=tls&sni=www.nintendogames.net#POORIA
+trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?security=tls&sni=www.nintendogames.net&type=tcp&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
@@ -184,7 +184,7 @@ trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:127?allowInsecure=0&sni
 
 trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:3169?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net#POORIA
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
@@ -194,11 +194,9 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:127?allowInsecure=0&sni
 
 trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:127?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#POORIA
 
-trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:4211?allowInsecure=1&sni=www.nintendogames.net#POORIA
-
 trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:4211?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#POORIA
 
-trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?security=tls&sni=www.nintendogames.net#POORIA
+trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
@@ -206,17 +204,17 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.214.6:4095?sni=www.nintendogame
 
 trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?security=tls&sni=www.nintendogames.net#POORIA
 
+trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#POORIA
+
 trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?security=tls&sni=www.nintendogames.net&type=tcp&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
 trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?security=tls&sni=www.nintendogames.net&type=tcp&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:4211?allowInsecure=0&sni=www.nintendogames.net#POORIA
+
 trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:4211?security=tls&sni=www.nintendogames.net&type=tcp&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
-trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:2890?allowInsecure=0&sni=www.nintendogames.net#POORIA
-
 trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:2890?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#POORIA%20%F0%9F%94%B7
-
-trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:3169?allowInsecure=0&sni=www.nintendogames.net#POORIA
 
 trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:3169?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#POORIA
 
@@ -236,6 +234,8 @@ trojan://3ea503c7-2e03-424a-812d-6f0d803e73dc@138.124.15.75:443?path=%2FFree-VPN
 
 trojan://3ea503c7-2e03-424a-812d-6f0d803e73dc@138.124.15.75:443?path=/Free-VPN-CF-Geo-Project/138.124.15.75=443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#POORIA%20%F0%9F%87%AB%F0%9F%87%AE
 
+trojan://3ea503c7-2e03-424a-812d-6f0d803e73dc@138.124.15.75:443?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/138.124.15.75=443&host=joss.gpj.web.id#POORIA
+
 trojan://620f1a94-60a5-4a10-b1ec-56e1f0ef55fa@94.131.114.50:81?path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#POORIA
 
 trojan://620f1a94-60a5-4a10-b1ec-56e1f0ef55fa@94.131.114.50:81?path=/Free-VPN-CF-Geo-Project/94.131.114.50=81&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#POORIA%20%F0%9F%87%AE%F0%9F%87%B1
@@ -244,15 +244,15 @@ trojan://823f57d2-d271-48a6-859e-d041179e1c6b@145.239.88.255:8443?path=%2FFree-V
 
 trojan://823f57d2-d271-48a6-859e-d041179e1c6b@145.239.88.255:8443?path=/Free-VPN-CF-Geo-Project/145.239.88.255=8443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#POORIA%20%F0%9F%87%B5%F0%9F%87%B1
 
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&headerType=none&type=tcp&sni=softpillow.silentrocket.click#POORIA
+trojan://8ecdaae7-1334-59a0-91e3-cdb9f315626f@162.159.137.232:443?security=tls&type=ws&sni=www.ocean12.WorkERs.dEv&host=www.ocean12.WorkERs.dEv#POORIA
 
-trojan://BxceQaOe@116.49.237.130:3579?sni=t.me%252Fripaojiedian#POORIA
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&headerType=none&type=tcp&sni=softpillow.silentrocket.click#POORIA
 
 trojan://BxceQaOe@160.16.227.93:1924?allowInsecure=1&sni=t.me%2Fripaojiedian#POORIA
 
-trojan://BxceQaOe@219.79.165.55:443?allowInsecure=1&sni=t.me%2Fripaojiedian#POORIA
+trojan://BxceQaOe@18.163.122.76:2173?allowInsecure=1&sni=t.me%2Fripaojiedian#POORIA
 
-trojan://BxceQaOe@35.77.94.201:8112?allowInsecure=1&sni=t.me%2Fripaojiedian#POORIA
+trojan://BxceQaOe@219.79.165.55:443?allowInsecure=1&sni=t.me%2Fripaojiedian#POORIA
 
 trojan://BxceQaOe@38.180.191.251:443?allowInsecure=1&sni=t.me%2Fripaojiedian#POORIA
 
@@ -398,6 +398,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTA0LjE5LjIxLjcxIiwicG9ydCI6IjIw
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTA0LjE5LjQ1LjI0MCIsInBvcnQiOiIyMDk1IiwiaWQiOiI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoib25lYS5mbGhhLnJ1IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0
 
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTA0LjE5LjQ1LjQ3IiwicG9ydCI6IjIwOTYiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGJiYzkyZGItNWY4Zi00MmZkLTg3ZmYtNDQwZTkwNDBkMjNjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ind3dy5kb25ndGFpd2FuZy5jb20iLCJob3N0IjoidG90YWwtcmFjaWFsLWV1Z2VuZS1pbmRleC50cnljbG91ZGZsYXJlLmNvbSIsInRscyI6InRscyJ9
+
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTA0LjI2LjUuMTAzIiwicG9ydCI6IjIwODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImlwMy42OTI5MTk4Lnh5eiIsInRscyI6IiJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTA0LjIwLjE3LjE4NiIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJpcDMuNjkyOTE5OC54eXoiLCJ0bHMiOiIifQ
@@ -418,11 +420,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTg1LjE0Ni4xNzMuNDgiLCJwb3J0Ijoi
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiMTg1LjE0OC4xMDUuNTIiLCJwb3J0IjoiNDQzIiwiaWQiOiIzZWQ5YWM1My1jZTAwLTRhYTUtOWY3YS1hMmU2ZmFiMGUxNGEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiVHJlZS5CbGFua3UuTWUiLCJwYXRoIjoiL3dzczQ5NDA2IiwidGxzIjoidGxzIiwic25pIjoiUm9ja3AuQmxhbmt1Lk1lIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ
 
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiZmlmZi5pciIsInBvcnQiOiI0NDMiLCJpZCI6IjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJUcmVlLkJsYW5rdS5NZSIsInBhdGgiOiIvd3NzNDk0MDYiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJSb2NrcC5CbGFua3UuTWUiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImlvcyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiOC4yMTEuMTY0LjIxNSIsInBvcnQiOiIyMDUyMiIsImlkIjoiNzMxOTNjY2UtN2NhMS00YjA4LTkzZmYtNGVlOGIwMTQ3Mzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
 
-vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIyMDguNzYuMjIzLjIxOCIsInBvcnQiOjI3MDkyLCJpZCI6ImEwNTk2YmE2LTcyYTMtNDM2Ni04OTkyLTc3MDg4ZGE2NWJkOCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjggRVMgMSJ9
-
-vmess://eyJhZGQiOiI0My4xNjIuMTE0LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YTRjZTViOS0wZDYwLTRhMjEtYThmZS04OTc3OTgwMTk1MDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6NTk2NzQsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmMiBVbml0ZWQgU3RhdGVzIFx1ZDgzZVx1ZGQ4NSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiOC4yMTguMjYuMjM0IiwicG9ydCI6IjU1NTY2IiwiaWQiOiI1MjBhNTA3Mi03NmVjLTRjMzctOGUyNS0wMmNmNjFiMDQ4ODkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
 
 tuic://80747420-96c4-4a2f-83e6-eea4e46beb09%3A80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:41053?sni=drhystuichdfy.samanidempire.org&alpn=h3&congestion_control=cubic#POORIA%20%F0%9F%94%B7
 
