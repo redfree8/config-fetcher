@@ -44,10 +44,6 @@ vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=no
 
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=none&security=tls&sni=cdn.chandplus.com&fp=random&insecure=1&allowInsecure=1&type=tcp&headerType=none#POORIA
 
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638975337676447591.lisbon-blkaft-aabc.info:8880?mode=gun&security=none&encryption=none&type=grpc#POORIA
-
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&security=&encryption=none&authority=telegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray%2Ctelegram-%40mainv2ray&type=grpc#POORIA
-
 vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?encryption=none&security=tls&sni=v2ray-vmess-free.irnoen.workers.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=v2ray-vmess-free.irnoen.workers.dev&path=%2F%3F%40VPN_ROOM------%40VPN_ROOM#POORIA
 
 vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053?encryption=none&security=tls&sni=name.api-music-fa.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=name.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM#POORIA
@@ -88,6 +84,10 @@ vless://1b6c1745-992e-4aac-8685-266c090e50ea@104.26.5.60:2096?encryption=none&se
 
 vless://1b6c1745-992e-4aac-8685-266c090e50ea@japan.com:2096?encryption=none&security=tls&sni=cf-worker-ws-dev.kingo1923.workers.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=cf-worker-ws-dev.kingo1923.workers.dev&path=%2F%3Fed%3D2048%40V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee#POORIA
 
+vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=&encryption=none&headerType=none&type=tcp#POORIA
+
+vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?encryption=none&security=tls&sni=om3.omidsuccess.uk&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=om3.omidsuccess.uk&path=%2Fcontainers%2Fde#POORIA
+
 hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?security=tls&insecure=0&sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk&insecure=0&allowInsecure=0#POORIA
@@ -95,8 +95,6 @@ hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?sni=fecc1dc
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743/?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#POORIA
-
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#POORIA
 
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -106,11 +104,7 @@ hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.
 
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102/?insecure=1#POORIA
-
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#POORIA%20%F0%9F%87%A7%F0%9F%87%B7
-
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?security=tls&insecure=1#POORIA
 
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?security=tls&insecure=1#POORIA%20%F0%9F%87%A7%F0%9F%87%B7
 
@@ -122,15 +116,13 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?security=
 
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&path=%2f&allow_insecure=1#POORIA%20%F0%9F%87%A8%F0%9F%87%A6
 
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?security=tls&insecure=1#POORIA
-
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?security=tls&insecure=1#POORIA%20%F0%9F%87%B0%F0%9F%87%B7
-
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102/?insecure=1#POORIA
 
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#POORIA%20%F0%9F%87%A7%F0%9F%87%B7
 
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?security=tls&insecure=1#POORIA%20%F0%9F%87%A7%F0%9F%87%B7
+
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?security=tls&insecure=1#POORIA%20%F0%9F%90%A0
 
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102/?insecure=1#POORIA
 
@@ -168,9 +160,21 @@ hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@048f2a67-t48f40-t48q54-4550.la.
 
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk&path=%2f#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?security=tls&insecure=1&sni=lsj3.mangshe.xyz#POORIA
+
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?sni=%f0%9f%94%92+%5bBy+EbraSha%5d+&path=%2f&allow_insecure=1#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg1.mangshe.xyz:2056?sni=%f0%9f%94%92+%5bBy+EbraSha%5d+&path=%2f&allow_insecure=1#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp2.mangshe.xyz:2060?sni=%f0%9f%94%92+%5bBy+EbraSha%5d+&path=%2f&allow_insecure=1#POORIA%20%F0%9F%87%B8%F0%9F%87%AC
+
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#POORIA%20%F0%9F%87%B8%F0%9F%87%AA
+
+hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?sni=net2025.afsharidempire.uk&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#POORIA
+
+trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?path=%2FFree-VPN-CF-Geo-Project%2F138.124.30.8%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
+
+trojan://1e1a7efa-a4f1-4936-a470-a001e0c3c85b@212.227.144.37:8443?path=%2FFree-VPN-CF-Geo-Project%2F212.227.144.37%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
 
 trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
@@ -214,9 +218,25 @@ trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?security=tls&sni=ww
 
 trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AD%F0%9F%87%B0
 
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?path=%2FFree-VPN-CF-Geo-Project%2F37.252.5.75%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
+
+trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?path=%2FFree-VPN-CF-Geo-Project%2F57.129.16.72%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
+
+trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
+
+trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?path=%2FFree-VPN-CF-Geo-Project%2F185.229.66.213%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
+
+trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
+
+trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?path=%2FFree-VPN-CF-Geo-Project%2F91.199.32.191%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
+
+trojan://8f58ba37-a117-4ad3-9422-37b62e01d2e6@77.91.74.6:443?path=%2FFree-VPN-CF-Geo-Project%2F77.91.74.6%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
+
 trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#POORIA%20%F0%9F%87%A8%F0%9F%87%B1
 
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
+trojan://c052382a-7256-47ad-8c65-35da1a5c56eb@193.84.2.14:8443?path=%2FFree-VPN-CF-Geo-Project%2F193.84.2.14%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#POORIA
 
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
@@ -236,33 +256,11 @@ trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&inse
 
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@203.198.122.135:443?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AD%F0%9F%87%B0
-
-trojan://fg20mtCFHy@jpcaw.southbyte.xyz:5705?type=tcp&security=tls#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
-
-trojan://telegram-id-directvpn@13.36.72.124:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
-
-trojan://telegram-id-directvpn@13.39.215.120:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
-
-trojan://telegram-id-directvpn@15.236.59.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
-
-trojan://telegram-id-directvpn@18.198.122.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://telegram-id-directvpn@3.65.9.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://telegram-id-directvpn@3.72.127.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://telegram-id-directvpn@3.77.167.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://telegram-id-directvpn@35.181.137.169:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.217:8080#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.217:8080#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#POORIA
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@154.205.150.157:990#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#POORIA%20%F0%9F%87%B3%F0%9F%87%B1
 
@@ -274,13 +272,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#POOR
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#POORIA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMXpQNWF4SktMVjR6VXBXUDlMWDZE@154.205.147.68:8443#POORIA
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.160:8080#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#POORIA
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYnlUanJaRUNFV3RCM0lSdFdyMzVt@194.87.45.189:443#POORIA
 
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.102.40:5003#POORIA
 
