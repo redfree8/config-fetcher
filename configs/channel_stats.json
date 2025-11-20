@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-11-20T20:20:34.783319+00:00",
+  "timestamp": "2025-11-20T22:18:11.451807+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 533624,
-        "valid_configs": 172,
-        "unique_configs": 172,
-        "avg_response_time": 0.16,
+        "total_configs": 486500,
+        "valid_configs": 169,
+        "unique_configs": 169,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.77,
-        "last_success": "2025-11-20T20:14:55.247282+00:00",
+        "overall_score": 74.89,
+        "last_success": "2025-11-20T22:12:32.075298+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 74,
+          "hysteria2://": 66,
           "vless://": 0,
-          "vmess://": 53,
+          "vmess://": 51,
           "ss://": 0,
-          "trojan://": 45,
+          "trojan://": 52,
           "tuic://": 0
         }
       }
@@ -31,11 +31,11 @@
         "total_configs": 5625,
         "valid_configs": 71,
         "unique_configs": 71,
-        "avg_response_time": 0.0,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.31,
-        "last_success": "2025-11-20T20:14:57.447648+00:00",
+        "last_success": "2025-11-20T22:12:34.273839+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 3,
@@ -77,11 +77,11 @@
         "total_configs": 13689,
         "valid_configs": 116,
         "unique_configs": 116,
-        "avg_response_time": 0.0,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.2,
-        "last_success": "2025-11-20T20:17:47.659714+00:00",
+        "last_success": "2025-11-20T22:15:24.182858+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 4,
