@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T16:27:26.624790+00:00",
+  "timestamp": "2025-11-26T18:27:41.022323+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 886416,
         "valid_configs": 274,
         "unique_configs": 274,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2025-11-26T16:21:47.300826+00:00",
+        "overall_score": 74.85,
+        "last_success": "2025-11-26T18:22:00.528711+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 67,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.24,
-        "last_success": "2025-11-26T16:21:49.638055+00:00",
+        "last_success": "2025-11-26T18:22:02.865967+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -74,18 +74,18 @@
       "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 13689,
-        "valid_configs": 116,
-        "unique_configs": 116,
-        "avg_response_time": 0.02,
+        "total_configs": 22801,
+        "valid_configs": 149,
+        "unique_configs": 149,
+        "avg_response_time": 0.0,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.18,
-        "last_success": "2025-11-26T16:24:39.482351+00:00",
+        "overall_score": 75.16,
+        "last_success": "2025-11-26T18:24:53.918693+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 4,
-          "vless://": 112,
+          "hysteria2://": 25,
+          "vless://": 124,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
