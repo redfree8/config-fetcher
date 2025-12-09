@@ -60,8 +60,6 @@ vless://134563d7-f835-4110-a36b-e0db5d262ae0@172.64.34.99:443?security=tls&sni=6
 
 vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?security=tls&sni=639003456253079909.defender-amsis.info&allowInsecure=1&fp=chrome&type=ws&path=/dupbatws&host=639003456253079909.defender-amsis.info&encryption=none#POORIA
 
-vless://13f395b3-5d40-43f9-bd94-55feaae1fa70@ezalor.fonixapp.org:443?security=reality&encryption=none&pbk=KQ2kgnnjTCTNaHRBYu7-qmT9GnWefrPm3L67JrOw9wA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=d1.awsstatic.com&sid=1d62#POORIA
-
 vless://13f395b3-5d40-43f9-bd94-55feaae1fa70@ezalor.fonixapp.org:443?security=reality&sni=d1.awsstatic.com&fp=chrome&pbk=KQ2kgnnjTCTNaHRBYu7-qmT9GnWefrPm3L67JrOw9wA&sid=1d62&type=tcp&flow=xtls-rprx-vision&encryption=none#POORIA
 
 vless://1437fec7-064b-4f8f-98f4-8c9aad3738b0@dubai.fonixapp.org:443?security=reality&sni=ajax.cloudflare.com&fp=chrome&pbk=HZM7SXNCsT5M_zWuBURZfplLY-L5Gqww5qRPJZAP8C4&sid=754dc2&type=tcp&flow=xtls-rprx-vision&encryption=none#POORIA
@@ -78,15 +76,17 @@ vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?security=tls&sni=
 
 vless://17805789-e705-4b20-b487-e9372b06fe4c@104.17.147.22:443?security=tls&sni=001.eLEcTRoceLLcO-Cf-003.WORkeRS.dEV&allowInsecure=1&fp=chrome&type=ws&path=/eyJqdW5rIjoidTFKWmpMZmRod1Jqa2pPUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&host=001.eLEcTRoceLLcO-Cf-003.WORkeRS.dEV&encryption=none#POORIA
 
-vless://17907db4-a235-40ca-8a97-05323021f9ff@141.227.162.151:33920?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#POORIA
-
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&encryption=none#POORIA
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@cherry.bitiboot.com:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&encryption=none#POORIA
 
 vless://1808de5c-08db-4d3f-8688-34ed85a0322d@152.53.146.1:443?security=reality&sni=workers.cloudflare.com&fp=chrome&pbk=LyhCTXS-yRgKZ052TlzwAs-hbj4n1qvJE2OLnbnCGDo&sid=dab7&type=tcp&flow=xtls-rprx-vision&encryption=none#POORIA
 
-vless://1808de5c-08db-4d3f-8688-34ed85a0322d@silverzebra.fonixapp.org:443?security=reality&encryption=none&pbk=LyhCTXS-yRgKZ052TlzwAs-hbj4n1qvJE2OLnbnCGDo&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=workers.cloudflare.com&sid=dab7#POORIA
+vless://1808de5c-08db-4d3f-8688-34ed85a0322d@silverzebra.fonixapp.org:443?security=reality&sni=workers.cloudflare.com&fp=chrome&pbk=LyhCTXS-yRgKZ052TlzwAs-hbj4n1qvJE2OLnbnCGDo&sid=dab7&type=tcp&flow=xtls-rprx-vision&encryption=none#POORIA
+
+vless://18ff277a-3b9a-46a0-842e-290f2b0661d2@whatismyipaddress.com:443?security=tls&sni=hidden-base-217b.powas74490.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=hidden-base-217b.powas74490.workers.dev&encryption=none#POORIA
+
+vless://1953c1e6-af68-4c60-a6f8-f8194de580f6@172.67.209.105:2087?security=tls&sni=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&encryption=none#POORIA
 
 hysteria2://06b2ac52-fcc6-11ec-bb74-f23c9164ca5d@21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443?security=tls&insecure=0&sni=21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com#POORIA%20%F0%9F%87%AD%F0%9F%87%B0
 
@@ -194,6 +194,8 @@ trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweett
 
 trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&type=tcp&path=/#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
 
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#POORIA
+
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#POORIA%20%F0%9F%87%A8%F0%9F%87%A6
 
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none&path=/#POORIA%20%F0%9F%87%A8%F0%9F%87%A6
@@ -254,15 +256,29 @@ trojan://telegram-id-directvpn@52.47.104.63:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@63.180.131.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
 
-trojan://telegram-id-privatevpns@13.39.32.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVmMmMxZC1hMzE3LTQ1YTgtYjIzMC1lNDIwNTY2YTdmNjI%3D@69.30.251.122:51004#POORIA%20%E2%99%A8
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#POORIA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSzB4V2pJT1VhajJ2U0J3d0JlaGsw@92.118.112.101:9483#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.142.81:990?#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@167.160.90.178:990?#POORIA
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZ0ZjOFBOazhRSEhjVzdsVEZUZUlk@45.95.232.236:4248#POORIA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQVh3Ymhla1hhbFBtTk9la2VqZ1cw@78.129.140.11:443#POORIA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaWTc2bVlndVl6R2JyMFJnSVJPaWNp@62.133.60.43:36456#POORIA
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080?#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080?#POORIA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#POORIA%20%E2%99%A8
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#POORIA%20%E2%99%A8
 
 ss://YWVzLTI1Ni1nY206@Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZklQdVROUm1tc1UxRTJJajhs:8388#POORIA%20%F0%9F%8F%B4
 
@@ -286,9 +302,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6NDQzLCJpZCI6IjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIyMDkuMTI2Ljg0LjE4OSIsInBhdGgiOiIvdm1lc3N3cyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiI+PkB2MmxpbmU6OlVTIn0
 
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiYS5jb25maWdub3Iuc2l0ZSIsInBvcnQiOjc0NDMsImlkIjoiNzFjZDc5NGItNWY4Yi00MTczLWI1OTItOGU0NmJjZTA2M2FiIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiYS5jb25maWdub3Iuc2l0ZSIsInBvcnQiOjc0NDMsImlkIjoiNjUwNTdlYmEtZDBiYS00OTAzLTk2ZjktZjdlMjU2OWFiNThiIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiJ3d3cubWljcm9zb2Z0LmNvbSJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiYS5jb25maWdub3Iuc2l0ZSIsInBvcnQiOjc0NDMsImlkIjoiYzA0ZDc2OTgtMjBmOS00YTM5LWJkZjMtOTMwMDI4YmQ3OTIxIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiJ3d3cubWljcm9zb2Z0LmNvbSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiYS5jb25maWdub3Iuc2l0ZSIsInBvcnQiOjc0NDMsImlkIjoiZjg3MzI3OTctYjViMy00NjRmLWI2NWYtOTNkYmNkNmU3NmM2Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSJ9
 
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiI1MS43OS4xMDIuMjUzIiwicG9ydCI6ODAsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDQSAyIn0
 
