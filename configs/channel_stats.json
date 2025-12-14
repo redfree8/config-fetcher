@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-12-14T20:20:45.587283+00:00",
+  "timestamp": "2025-12-14T22:19:22.493164+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 607614,
-        "valid_configs": 129,
-        "unique_configs": 129,
-        "avg_response_time": 0.05,
+        "total_configs": 604500,
+        "valid_configs": 118,
+        "unique_configs": 118,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.92,
-        "last_success": "2025-12-14T20:14:57.027371+00:00",
+        "overall_score": 74.78,
+        "last_success": "2025-12-14T22:13:33.725618+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 37,
+          "hysteria2://": 38,
           "vless://": 0,
-          "vmess://": 46,
+          "vmess://": 41,
           "ss://": 8,
-          "trojan://": 38,
+          "trojan://": 31,
           "tuic://": 0
         }
       }
@@ -31,11 +31,11 @@
         "total_configs": 15376,
         "valid_configs": 111,
         "unique_configs": 111,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.17,
-        "last_success": "2025-12-14T20:14:59.643733+00:00",
+        "overall_score": 75.13,
+        "last_success": "2025-12-14T22:13:36.364588+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 3,
@@ -80,8 +80,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.1,
-        "last_success": "2025-12-14T20:17:58.401598+00:00",
+        "overall_score": 75.09,
+        "last_success": "2025-12-14T22:16:35.307350+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
