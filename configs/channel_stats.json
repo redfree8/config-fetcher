@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-12-26T08:25:33.049228+00:00",
+  "timestamp": "2025-12-26T10:22:23.190929+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 609174,
+        "total_configs": 602946,
         "valid_configs": 119,
         "unique_configs": 119,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.88,
-        "last_success": "2025-12-26T08:19:27.719588+00:00",
+        "overall_score": 74.81,
+        "last_success": "2025-12-26T10:16:17.628240+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 33,
           "vless://": 0,
-          "vmess://": 48,
+          "vmess://": 47,
           "ss://": 7,
-          "trojan://": 31,
+          "trojan://": 32,
           "tuic://": 0
         }
       }
@@ -31,11 +31,11 @@
         "total_configs": 3721,
         "valid_configs": 48,
         "unique_configs": 48,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.22,
-        "last_success": "2025-12-26T08:19:29.973348+00:00",
+        "overall_score": 75.27,
+        "last_success": "2025-12-26T10:16:19.846707+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 114244,
         "valid_configs": 337,
         "unique_configs": 337,
-        "avg_response_time": 0.0,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.07,
-        "last_success": "2025-12-26T08:22:45.937977+00:00",
+        "overall_score": 74.87,
+        "last_success": "2025-12-26T10:19:36.076680+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 17,
