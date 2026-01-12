@@ -48,8 +48,6 @@ vless://160e9c18-c548-42bf-9c00-905aed8ef96f@43.250.54.155:49000?mode=gun&securi
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&headerType=none#POORIA
 
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.73.126:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#POORIA%20%E2%9A%9C
-
 vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@158.160.198.23:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#POORIA
 
 vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@83.166.237.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#POORIA
@@ -86,7 +84,9 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@5.253.41.52:8443?encryption=none&fl
 
 vless://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#POORIA
 
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?path=%2F&security=tls&alpn=h3h2&encryption=none&insecure=0&host=YdHxR987jY.bAsErTy.InFo&fp=chrome&type=ws&allowInsecure=0&sni=YdHxR987jY.bAsErTy.InFo#POORIA
+vless://39e5cc2f-1294-4a42-bb58-306a8be785e1@62.60.148.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=BkAG_uWeUj7BCHqYjrz1JyH0TMvO_KywubV7WJN17ho&sid=ee6f3e8f44b1f0b6&type=tcp&headerType=none#POORIA
+
+vless://3c28c3cf-85ef-4a8a-a475-3a8585d563fe@159.223.205.136:42356?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=nY642oPT9bs-EddohAqLcif8a7qaxAUwxeDD85eXNjw&type=tcp&headerType=none#POORIA
 
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#POORIA%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -102,11 +102,7 @@ trojan://3437698@104.18.45.158:443?path=%2F%3Fed%3D2560&security=tls&host=rough-
 
 trojan://3437698@104.18.45.158:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
-trojan://3437698@104.19.39.165:2053?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#POORIA
-
 trojan://3437698@104.19.39.165:2053?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
-trojan://3437698@172.67.70.2:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#POORIA
 
 trojan://3437698@172.67.70.2:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -171,6 +167,10 @@ trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3901?security=tls&sni=w
 trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3901?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
 trojan://61d8077bfb174e171b8283f155a555ad@153.121.51.29:1933?security=tls&sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
+
+trojan://61d8077bfb174e171b8283f155a555ad@153.121.51.29:1933?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
+
+trojan://61d8077bfb174e171b8283f155a555ad@153.121.51.29:4006?security=tls&sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
