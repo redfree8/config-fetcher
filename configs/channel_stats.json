@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T10:54:47.535699+00:00",
+  "timestamp": "2026-01-31T13:03:28.173349+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 2121386,
         "valid_configs": 283,
         "unique_configs": 283,
-        "avg_response_time": 0.23,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.67,
-        "last_success": "2026-01-31T10:47:08.927938+00:00",
+        "overall_score": 74.91,
+        "last_success": "2026-01-31T12:55:49.859834+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 48,
@@ -31,11 +31,11 @@
         "total_configs": 15876,
         "valid_configs": 119,
         "unique_configs": 119,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.08,
-        "last_success": "2026-01-31T10:47:11.882724+00:00",
+        "overall_score": 75.13,
+        "last_success": "2026-01-31T12:55:52.770307+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -77,11 +77,11 @@
         "total_configs": 275625,
         "valid_configs": 516,
         "unique_configs": 516,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2026-01-31T10:52:00.314149+00:00",
+        "overall_score": 75.03,
+        "last_success": "2026-01-31T13:00:40.945567+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
