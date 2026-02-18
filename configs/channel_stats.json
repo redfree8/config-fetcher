@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T10:45:20.600694+00:00",
+  "timestamp": "2026-02-18T12:46:56.975591+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 602946,
         "valid_configs": 238,
         "unique_configs": 238,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.86,
-        "last_success": "2026-02-18T10:38:23.983991+00:00",
+        "overall_score": 74.89,
+        "last_success": "2026-02-18T12:39:55.804706+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -34,8 +34,8 @@
         "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.95,
-        "last_success": "2026-02-18T10:39:24.838837+00:00",
+        "overall_score": 74.94,
+        "last_success": "2026-02-18T12:40:57.062978+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 7,
@@ -74,19 +74,19 @@
       "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 98596,
-        "valid_configs": 314,
-        "unique_configs": 314,
+        "total_configs": 110889,
+        "valid_configs": 333,
+        "unique_configs": 333,
         "avg_response_time": 0.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.06,
-        "last_success": "2026-02-18T10:42:33.421901+00:00",
+        "overall_score": 75.05,
+        "last_success": "2026-02-18T12:44:09.789319+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
-          "vless://": 309,
-          "vmess://": 0,
+          "vless://": 327,
+          "vmess://": 1,
           "ss://": 0,
           "trojan://": 0,
           "tuic://": 0
