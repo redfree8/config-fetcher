@@ -14,8 +14,6 @@ vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryp
 
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#POORIA
 
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#POORIA
-
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#POORIA
 
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#POORIA
@@ -84,9 +82,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.221.203:22224?encryption=none
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.53.84:22224?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#POORIA
 
-vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@sg.connect-opengate.cv:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=hello.opengate.tech&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&sid=30531914bddc70c8&spx=/#POORIA
-
 vless://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@dcv.0ow.ccwu.cc:443?encryption=none&security=tls&sni=dcv.0ow.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dcv.0ow.ccwu.cc&path=%2F7ZHQqqDZuBdYKaAHx8c#POORIA
+
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#POORIA
+
+vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.ibm.com&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=423bccc9c13fb509#POORIA
 
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#POORIA%20%F0%9F%87%AD%F0%9F%87%B0
 
@@ -184,8 +184,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKT1o1TWIzbkpDbW1vS2hkOENjOWFD@5.181.2.76:366
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM=@124.217.247.205:51348#POORIA%20%F0%9F%8C%8E
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#POORIA
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#POORIA
@@ -274,8 +272,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiNTcuMTI4LjIxNi4xMjUiLCJwb3J0Ijoi
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiNTcuMTI5LjI4LjIxNCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJrYW1wb25nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoia2FtcG9uZy5vcmciLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
 
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
-
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiI1MS43OS4xMDIuMjUzIiwicG9ydCI6ODAsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDQSA0In0
 
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiIxNS4yMzUuNDEuMjAwIiwicG9ydCI6ODAsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ0EgMiJ9
@@ -315,4 +311,6 @@ vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQi
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJuMTc1MTQ2ODA5Mi5saWU1ZC5jeW91IiwicG9ydCI6NDQzLCJpZCI6IjdhY2UxODczLTk4MjItNDZhZi05OTIwLWJkNjRmNzI1MjEyYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6Im4xNzUxNDY4MDkyLmxpZTVkLmN5b3UiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSlAgNSJ9
 
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiNGYyM2ViN2MtZWYyZi00M2IwLTkwZGQtZjJiOGE3NTk1NGE1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NTM1OTg0NTIud3BnMjcueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKUCA0In0
+
+vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiI2Ny43Nzc3MTEyLnh5eiIsInBvcnQiOjQ0MywiaWQiOiIyMjE1NjU3ZS0yYWY0LTQwNWYtYjc3MC00ZTYxYjI5OGQ1YjgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjY3Ljc3NzcxMTIueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9QR3NxYjJTSEpmYkNMbyIsInRscyI6InRscyIsInNuaSI6IjY3Ljc3NzcxMTIueHl6IiwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgMjE5In0
 
