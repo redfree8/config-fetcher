@@ -126,8 +126,6 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:4674?sni=www.nintendogame
 
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AD%F0%9F%87%B0
 
-trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#POORIA%20%F0%9F%8C%90
-
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#POORIA%20%F0%9F%8C%90
 
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#POORIA%20%F0%9F%87%AB%F0%9F%87%B7
@@ -135,8 +133,6 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#POORIA%20%F0%9F%8C%90
 
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#POORIA
-
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#POORIA%20%F0%9F%87%B3%F0%9F%87%B1
 
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -171,6 +167,10 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creat
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#POORIA
 
@@ -216,11 +216,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?sni=YAPC-
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?sni=YAPC-1.afshin.ir&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#POORIA
 
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#POORIA%20%F0%9F%8C%90
-
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#POORIA
-
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#POORIA
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4OC4xMTQuOTYuMyIsInBvcnQiOjQ0MywiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoic3k0LjYyMDcyMC54eXoiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InN5NC42MjA3MjAueHl6IiwiYWxwbiI6IiIsImZwIjoiIiwibmFtZSI6Ij4+QHYycmF5X2NvbmZpZ3NfcG9vbDo6QVU6OkFVOjpBVTo6QVU6OkFVOjpBVTo6QVU6OkFVOjpBVTo6WFgiLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ
 
@@ -297,8 +293,6 @@ vmess://eyJhZGQiOiIxOTguNjIuNjIuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMjA5LjEyNi44NC4xODkiLCJpZCI6IjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzIiwicG9ydCI6NDQzLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwibmFtZSI6IkNoYW5uZWwgaWQ6QHByb3h5X2thZmVlXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0
 
 vmess://eyJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuY29kZWZ5aW5jLmNvbSIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzd3MiLCJwb3J0Ijo0NDMsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJuYW1lIjoiQGNoaWxsZ3V5X3ZwbiJ9
-
-vmess://eyJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuY29kZWZ5aW5jLmNvbSIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzd3MiLCJwb3J0Ijo0NDMsInBzIjoiUE9PUklBIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiaWQiOiI0YjgwYWE4Ni00MzU0LTQwYmItZDJhMy00NzEyNmNmZjBiZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXNhdm0iLCJwb3J0IjoyMDUzLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoidXNhYXBwMS5qaXN1eXVuLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiI+PkBvbmVjbGlja3ZwbmtleXM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVMifQ
 
