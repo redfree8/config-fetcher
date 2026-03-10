@@ -88,14 +88,6 @@ vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.15.21:443?encryption=none&se
 
 vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#POORIA
 
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ghj.ok7.ccwu.cc:443?security=tls&sni=ghj.ok7.ccwu.cc&alpn=http/1.1&type=ws&host=ghj.ok7.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ghj.ok7.ccwu.cc:443?security=tls&sni=ghj.ok7.ccwu.cc&type=ws&host=ghj.ok7.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?security=tls&sni=ilop.uk2033.ccwu.cc&alpn=http/1.1&type=ws&host=ilop.uk2033.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sni=u8.ok8.ccwu.cc&alpn=http/1.1&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
 trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sni=u8.ok8.ccwu.cc&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://Nova-Proxy@141.101.113.223:8443?path=/?ed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
@@ -171,6 +163,14 @@ trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowIns
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#POORIA%20%F0%9F%87%AA%F0%9F%87%B8
 
 trojan://humanity@188.114.96.3:443?path=%252Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#POORIA
+
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#POORIA
+
+trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
+trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&fp=chrome&sni=www.gossipglove.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#POORIA
 
@@ -288,6 +288,8 @@ vmess://eyJhZGQiOiIxNzIuMjMzLjIyOS45MSIsInYiOiIyIiwicHMiOiJQT09SSUEgXHVkODNjXHVk
 
 vmess://eyJhZGQiOiIxNzIuMjMzLjIyOS45MSIsInYiOiIyIiwicHMiOiJQT09SSUEiLCJwb3J0IjoxNDEwMiwiaWQiOiIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0
 
+vmess://eyJhZGQiOiIxOTguNjIuNjIuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvdXMzLmRlYW41Mi50b3AiLCJpZCI6ImYwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9mMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLCJwb3J0Ijo0NDMsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJvdXMzLmRlYW41Mi50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJuYW1lIjoiQGNoaWxsZ3V5X3ZwbiJ9
+
 vmess://eyJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMjA5LjEyNi44NC4xODkiLCJpZCI6IjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzIiwicG9ydCI6NDQzLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwibmFtZSI6IkNoYW5uZWwgaWQ6QHByb3h5X2thZmVlXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0
 
 vmess://eyJhZGQiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiaWQiOiI0YjgwYWE4Ni00MzU0LTQwYmItZDJhMy00NzEyNmNmZjBiZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXNhdm0iLCJwb3J0IjoyMDUzLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoidXNhYXBwMS5qaXN1eXVuLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiI+PkBvbmVjbGlja3ZwbmtleXM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIn0
@@ -299,6 +301,4 @@ vmess://eyJhZGQiOiJtaWp1eS4xeDguaW5kZXZzLmluIiwicG9ydCI6ODAsImlkIjoiNGU0NWMxYjQt
 vmess://eyJhZGQiOiJuMTc2MTIxNDkwNy43NHF4di50b3AiLCJhaWQiOiIwIiwiaG9zdCI6Im4xNzYxMjE0OTA3Ljc0cXh2LnRvcCIsImlkIjoiNGMxNzM5OWYtYzkzZC00NTI3LThhY2UtNWJkYzJmMDkwMWYzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJQT09SSUEgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsIm5hbWUiOiJcdWQ4M2NcdWRmZjRcdTIwMGRTaGluZSJ9
 
 vmess://eyJhZGQiOiJuMTc2MTIxNDkxNS5tdjd3aC50ZWNoIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTIxNDkxNS5tdjd3aC50ZWNoIiwiaWQiOiIxZjJkYWY0My1mZjkwLTRkZjktOTI3Ni1kZmI4NDg2ZDcyYmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjoibjE3NjEyMTQ5MTUubXY3d2gudGVjaCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsIm5hbWUiOiJcdWQ4M2NcdWRmZjRcdTIwMGRTaGluZSJ9
-
-vmess://eyJhZGQiOiJuZXZhLmF6bGFuLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmV2YS5hemxhbi5iaXouaWQiLCJpZCI6IjgwNzIyOThmLWNkMjgtNGE2MS04ZTA1LTU4NzljODRiOTEwMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOjQ0MywicHMiOiJQT09SSUEgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5Iiwic2N5IjoiYXV0byIsInNuaSI6Im5ldmEuYXpsYW4uYml6LmlkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwibmFtZSI6Ij4+QG9uZWNsaWNrdnBua2V5czo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEIn0
 
