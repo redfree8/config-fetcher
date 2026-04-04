@@ -92,10 +92,6 @@ trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=h
 
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#POORIA
 
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
-
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
-
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:3057?security=tls&sni=www.nintendogames.net&type=tcp&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#POORIA%20%F0%9F%87%B3%F0%9F%87%B1
@@ -158,6 +154,10 @@ trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&f
 
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=//assignment&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?allowInsecure=1&sni=fra4.chasem2026sud.com#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
+
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=1&sni=fra35.chasem2026sud.com#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
+
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@130.0.234.160:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%A6
 
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@144.31.5.132:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#POORIA%20%F0%9F%87%B5%F0%9F%87%B1
@@ -213,6 +213,8 @@ vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQi
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJwb3J0Ijo0NDMsImlkIjoiMzdiMjA2MzktMGQ2ZS00NmYyLTlkYjUtNDcyMjAxYjEwY2RkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Im4xNzUzMzU2Mzc4LjR1OW1hLmljdSIsImZwIjoiY2hyb21lIiwibmFtZSI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBISyA3In0
 
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJwb3J0Ijo0NDMsImlkIjoiMzdiMjA2MzktMGQ2ZS00NmYyLTlkYjUtNDcyMjAxYjEwY2RkIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NTMzNTYzNzguNHU5bWEuaWN1IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBISyA2In0
+
+vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0Ijo4MCwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE1Mi42Ny44LjIwNSIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6ImNocm9tZSIsIm5hbWUiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMgSU4gMiJ9
 
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0Ijo4MCwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxNTIuNjcuOC4yMDUiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMgSU4gMyJ9
 
