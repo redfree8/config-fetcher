@@ -88,9 +88,15 @@ vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?encryption=none
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@cherry.bitiboot.com:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&headerType=none#POORIA
 
+trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=http/1.1&type=ws&path=/eyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19&allow_insecure=0#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?allowInsecure=0&sni=www.nintendogames.net#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?allowInsecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&sni=www.nintendogames.net#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
+
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#POORIA
+
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?sni=www.nintendogames.net&path=/#POORIA%20%F0%9F%87%AF%F0%9F%87%B5
 
@@ -165,12 +171,6 @@ trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@185.177.238.15:2083?allowInsecure=1&host
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#POORIA%20%F0%9F%87%B8%F0%9F%87%AA
 
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.30.69:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.219.80:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#POORIA%20%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.225:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#POORIA%20%F0%9F%87%A8%F0%9F%87%AD
-
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.4:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#POORIA%20%F0%9F%87%A8%F0%9F%87%AD
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?sni=YAPC-1.afshin.ir&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#POORIA
 
