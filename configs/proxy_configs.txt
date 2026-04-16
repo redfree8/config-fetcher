@@ -88,8 +88,6 @@ vless://0e4e3a71-e712-49c6-a6a5-0b457764746e@afrcloud22.mmv.kr:443?encryption=no
 
 vless://0ec1c958-0087-4ca6-b4b2-b846c0f62419@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#POORIA
 
-trojan://1710442808@188.114.98.0:443?allowInsecure=1&host=subb.nrshop198.workers.dev&path=/&sni=subb.nrshop198.workers.dev&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
@@ -140,6 +138,8 @@ trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&host=www.gossi
 
 trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
+trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
 trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
@@ -149,6 +149,8 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.mult
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -169,8 +171,6 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?sni=YAPC-1.afshin.ir&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#POORIA
 
@@ -206,11 +206,13 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiODIuMTk4LjI0Ni40NiIsInBvcnQiOiIx
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIiwiYWRkIjoiZWZhbi5kbnNlZmFuMDQ4ODEuY29tIiwicG9ydCI6Ijc3NTQiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDA5ZTU1OGQtM2NmNC00OWQ4LWI1ZTQtODJjOWUxNGZlMWE0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImVmYW4uZG5zZWZhbjA0ODgxLmNvbSIsInRscyI6IiJ9
 
-vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZmYiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZmYgQ1ogMSJ9
-
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiJ2bTUxNTQ0NTQyLmRuczg2NTY4MTUuY29tIiwicG9ydCI6Nzc1NCwiaWQiOiI3Y2Q5NmRiZS1lY2VjLTQ5MzctOWUwNS04N2FiNzBhZjJmMzAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBISyAyIn0
 
 vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiJlZmFuLmRuc2VmYW4wNDg4MS5jb20iLCJwb3J0Ijo3NzU0LCJpZCI6IjdjZDk2ZGJlLWVjZWMtNDkzNy05ZTA1LTg3YWI3MGFmMmYzMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhLIDMifQ
+
+vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZTkiLCJhZGQiOiJ2MTIuaGRhY2QuY29tIiwicG9ydCI6MzA4MTIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUgTVkgMiJ9
+
+vmess://eyJ2IjpudWxsLCJwcyI6IlBPT1JJQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZTkiLCJhZGQiOiJ2MTIuaGRhY2QuY29tIiwicG9ydCI6MzA4MTIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IjRiYmY4MmVhLXQwYm9nMC10YTY0cmktMXF6aTEuaGszLnA1cHYuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIE1ZIDEifQ
 
 vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEzNzU5ODVlLTMzNGEtNGMyNS04ZjY0LTUyYTE4MmJjODAzNyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9Ob3RpZl9DaGF0IiwicG9ydCI6NTUxODUsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJuYW1lIjoiPj5AZmx5djJyYXk6OkhLOjpISzo6SEs6OkhLOjpISzo6SEs6OkhLIn0
 
