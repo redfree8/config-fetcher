@@ -88,6 +88,8 @@ vless://0e4e3a71-e712-49c6-a6a5-0b457764746e@afrcloud22.mmv.kr:443?encryption=no
 
 vless://0ec1c958-0087-4ca6-b4b2-b846c0f62419@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#POORIA
 
+trojan://1710442808@188.114.98.0:443?allowInsecure=1&host=subb.nrshop198.workers.dev&path=/&sni=subb.nrshop198.workers.dev&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
+
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&type=ws#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
@@ -170,8 +172,6 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#POORIA%20%F0%9F%87%BA%F0%9F%87%B8
-
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?sni=YAPC-1.afshin.ir&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#POORIA
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?sni=YAPC-1.afshin.ir&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#POORIA
@@ -193,8 +193,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyIsImFkZCI6
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjE3Mi42NC4xNTUuMjA5IiwicG9ydCI6ODQ0MywiaWQiOiIxOWU1MmJmNC0xYjdkLTRiZDQtYWU2Ni02Y2EwMjQ0MzZjMTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL2didCIsInRscyI6InRscyIsInNuaSI6ImZyc3lzLmZsLWRsLmNvbSIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsIm5hbWUiOiJAY2hpbGxndXlfdnBuIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjQ3LjkwLjI0NC4xNTMiLCJwb3J0Ijo4NDQzLCJ0eXBlIjoibm9uZSIsImlkIjoiNjVlMmE5ODUtYWQyMC00NDg2LWE3ZWMtYjY3YjIwZWU1NmFmIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJuYW1lIjoiPj5AdjJub2Rlczo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIn0
-
-vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjY3LjIyMC43Mi4yMzciLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiUE9PUklBIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6ImNoYXRncHQuY29tIiwicG9ydCI6ODQ0MywiaWQiOiIxOWU1MmJmNC0xYjdkLTRiZDQtYWU2Ni02Y2EwMjQ0MzZjMTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL2didCIsInRscyI6InRscyIsInNuaSI6ImZyc3lzLmZsLWRsLmNvbSIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsIm5hbWUiOiI+PkBEYWlseVYyUlk6OkZSIn0
 
